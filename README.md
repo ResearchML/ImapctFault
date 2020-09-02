@@ -3,6 +3,7 @@
 Replication Utilities 
 
 This repository includes the steps and information needed to replicate our study.
+
 1- Detection of multi-language code smells occurrences.
 2- Detection of bug fixing and bug inducing commits.
 3- Extraction of bug topics.
