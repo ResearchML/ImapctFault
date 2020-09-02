@@ -1,0 +1,34 @@
+def report_fishers_exact_test_new(sys_name):
+    path_root = os.getcwd()
+    merged_data_path = os.path.join(data_path_root, 'data', 'merged_data.csv')
+    data = load_csv(merged_data_path)
+#     print(data.columns)
+    cols_list = ['system', 'version', 'JNINativeFlag', 'Smelly','InducingFlag', 'Inducing'] 
+    data_df = data[cols_list]
+#     sys_list = list(set(data_df['system'].values))
+#     print(sys_list)
+    data_df = data_df[data_df['system']==sys_name]
+    release_list = list(set(data_df['version'].values))
+    
+    report_txt =''
+    header = "Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, p-value"
+    report_txt = header + '\n'
+    print('Fisher\'s Test results for {}'.format(sys_name))
+    print('==================================')
+    print(header)
+    for rl in release_list:
+        rel_df = data_df[data_df['version']==rl] # for selected release
+        jni_df = rel_df[rel_df['JNINativeFlag']==1] # for JNI files in selected release
+        smelly_buggy = jni_df[(jni_df['Smelly']>0) & (jni_df['InducingFlag'])==1].shape[0]
+        non_smelly_buggy = jni_df[(jni_df['Smelly']==0) & (jni_df['InducingFlag'])==1].shape[0]
+        smelly_non_buggy = jni_df[(jni_df['Smelly']>0) & (jni_df['InducingFlag'])==0].shape[0]
+        non_smelly_non_buggy = jni_df[(jni_df['Smelly']==0) & (jni_df['InducingFlag'])==0].shape[0]
+
+        test_data = [[smelly_buggy, non_smelly_buggy],
+                     [smelly_non_buggy, non_smelly_non_buggy]]
+        odd_r, p_val = fishers_exact_test(test_data)
+        txt_line = "{},{},{},{},{},{},{}".format(rl, smelly_buggy, non_smelly_buggy,
+                                        smelly_non_buggy, non_smelly_non_buggy, odd_r, float_to_str(p_val))
+        print(txt_line)
+        report_txt = report_txt + txt_line + '\n'
+    return report_txt

@@ -1,0 +1,179 @@
+                                excessiveInterlangCommunication  \
+excessiveInterlangCommunication                         1.000000   
+Toomuchclustring                                        0.577998   
+ToomuchScattering                                       0.231009   
+UnusedMethodDeclaration                                 0.387821   
+UnusedMethodImplementation                              0.195227   
+UnusedParameter                                         0.017615   
+AssumingSafeReturnValue                                -0.006782   
+NotHandlingExceptions                                  -0.007472   
+NotSecuringLibraries                                    0.064104   
+HardCodingLibraries                                    -0.003387   
+NotUsingRelativePath                                    0.093118   
+MemoryManagementMismatch                               -0.003965   
+LocalReferencesAbuse                                   -0.003324   
+CLOL                                                    0.015586   
+PrevFixing                                              0.009738   
+CodeChurn                                               0.015880   
+
+                                 Toomuchclustring  ToomuchScattering  \
+excessiveInterlangCommunication          0.577998           0.231009   
+Toomuchclustring                         1.000000          -0.018584   
+ToomuchScattering                       -0.018584           1.000000   
+UnusedMethodDeclaration                  0.415952           0.240990   
+UnusedMethodImplementation               0.234226          -0.005820   
+UnusedParameter                          0.021782           0.046748   
+AssumingSafeReturnValue                 -0.007007          -0.008737   
+NotHandlingExceptions                   -0.007719          -0.009626   
+NotSecuringLibraries                     0.056576           0.009755   
+HardCodingLibraries                     -0.003499           0.009897   
+NotUsingRelativePath                     0.088984          -0.005758   
+MemoryManagementMismatch                -0.004097          -0.005109   
+LocalReferencesAbuse                    -0.003434          -0.004282   
+CLOL                                    -0.001571           0.001195   
+PrevFixing                               0.009128           0.004155   
+CodeChurn                               -0.001321           0.001454   
+
+                                 UnusedMethodDeclaration  \
+excessiveInterlangCommunication                 0.387821   
+Toomuchclustring                                0.415952   
+ToomuchScattering                               0.240990   
+UnusedMethodDeclaration                         1.000000   
+UnusedMethodImplementation                      0.140695   
+UnusedParameter                                 0.036703   
+AssumingSafeReturnValue                        -0.005760   
+NotHandlingExceptions                          -0.006346   
+NotSecuringLibraries                            0.098975   
+HardCodingLibraries                             0.018448   
+NotUsingRelativePath                            0.118391   
+MemoryManagementMismatch                       -0.003368   
+LocalReferencesAbuse                           -0.002823   
+CLOL                                            0.023031   
+PrevFixing                                      0.034203   
+CodeChurn                                       0.023587   
+
+                                 UnusedMethodImplementation  UnusedParameter  \
+excessiveInterlangCommunication                    0.195227         0.017615   
+Toomuchclustring                                   0.234226         0.021782   
+ToomuchScattering                                 -0.005820         0.046748   
+UnusedMethodDeclaration                            0.140695         0.036703   
+UnusedMethodImplementation                         1.000000         0.060142   
+UnusedParameter                                    0.060142         1.000000   
+AssumingSafeReturnValue                           -0.002194        -0.010212   
+NotHandlingExceptions                             -0.002417        -0.012085   
+NotSecuringLibraries                               0.083545         0.029670   
+HardCodingLibraries                               -0.001096        -0.007250   
+NotUsingRelativePath                               0.188472         0.037950   
+MemoryManagementMismatch                          -0.001283         0.003146   
+LocalReferencesAbuse                              -0.001075         0.025325   
+CLOL                                               0.003490         0.036279   
+PrevFixing                                        -0.002332         0.041399   
+CodeChurn                                          0.003654         0.036971   
+
+                                 AssumingSafeReturnValue  \
+excessiveInterlangCommunication                -0.006782   
+Toomuchclustring                               -0.007007   
+ToomuchScattering                              -0.008737   
+UnusedMethodDeclaration                        -0.005760   
+UnusedMethodImplementation                     -0.002194   
+UnusedParameter                                -0.010212   
+AssumingSafeReturnValue                         1.000000   
+NotHandlingExceptions                           0.907419   
+NotSecuringLibraries                           -0.003217   
+HardCodingLibraries                            -0.001645   
+NotUsingRelativePath                           -0.002171   
+MemoryManagementMismatch                       -0.001926   
+LocalReferencesAbuse                            0.055247   
+CLOL                                            0.003600   
+PrevFixing                                     -0.003502   
+CodeChurn                                       0.003798   
+
+                                 NotHandlingExceptions  NotSecuringLibraries  \
+excessiveInterlangCommunication              -0.007472              0.064104   
+Toomuchclustring                             -0.007719              0.056576   
+ToomuchScattering                            -0.009626              0.009755   
+UnusedMethodDeclaration                      -0.006346              0.098975   
+UnusedMethodImplementation                   -0.002417              0.083545   
+UnusedParameter                              -0.012085              0.029670   
+AssumingSafeReturnValue                       0.907419             -0.003217   
+NotHandlingExceptions                         1.000000             -0.003544   
+NotSecuringLibraries                         -0.003544              1.000000   
+HardCodingLibraries                          -0.001812              0.511985   
+NotUsingRelativePath                         -0.002392              0.603328   
+MemoryManagementMismatch                      0.098910             -0.001881   
+LocalReferencesAbuse                          0.049858             -0.001576   
+CLOL                                          0.004438              0.027656   
+PrevFixing                                   -0.003858              0.068128   
+CodeChurn                                     0.004670              0.028179   
+
+                                 HardCodingLibraries  NotUsingRelativePath  \
+excessiveInterlangCommunication            -0.003387              0.093118   
+Toomuchclustring                           -0.003499              0.088984   
+ToomuchScattering                           0.009897             -0.005758   
+UnusedMethodDeclaration                     0.018448              0.118391   
+UnusedMethodImplementation                 -0.001096              0.188472   
+UnusedParameter                            -0.007250              0.037950   
+AssumingSafeReturnValue                    -0.001645             -0.002171   
+NotHandlingExceptions                      -0.001812             -0.002392   
+NotSecuringLibraries                        0.511985              0.603328   
+HardCodingLibraries                         1.000000              0.083382   
+NotUsingRelativePath                        0.083382              1.000000   
+MemoryManagementMismatch                   -0.000962             -0.001269   
+LocalReferencesAbuse                       -0.000806             -0.001064   
+CLOL                                        0.027878             -0.001211   
+PrevFixing                                  0.067940             -0.002308   
+CodeChurn                                   0.028712             -0.001277   
+
+                                 MemoryManagementMismatch  \
+excessiveInterlangCommunication                 -0.003965   
+Toomuchclustring                                -0.004097   
+ToomuchScattering                               -0.005109   
+UnusedMethodDeclaration                         -0.003368   
+UnusedMethodImplementation                      -0.001283   
+UnusedParameter                                  0.003146   
+AssumingSafeReturnValue                         -0.001926   
+NotHandlingExceptions                            0.098910   
+NotSecuringLibraries                            -0.001881   
+HardCodingLibraries                             -0.000962   
+NotUsingRelativePath                            -0.001269   
+MemoryManagementMismatch                         1.000000   
+LocalReferencesAbuse                            -0.000944   
+CLOL                                             0.000070   
+PrevFixing                                      -0.002048   
+CodeChurn                                        0.000173   
+
+                                 LocalReferencesAbuse      CLOL  PrevFixing  \
+excessiveInterlangCommunication             -0.003324  0.015586    0.009738   
+Toomuchclustring                            -0.003434 -0.001571    0.009128   
+ToomuchScattering                           -0.004282  0.001195    0.004155   
+UnusedMethodDeclaration                     -0.002823  0.023031    0.034203   
+UnusedMethodImplementation                  -0.001075  0.003490   -0.002332   
+UnusedParameter                              0.025325  0.036279    0.041399   
+AssumingSafeReturnValue                      0.055247  0.003600   -0.003502   
+NotHandlingExceptions                        0.049858  0.004438   -0.003858   
+NotSecuringLibraries                        -0.001576  0.027656    0.068128   
+HardCodingLibraries                         -0.000806  0.027878    0.067940   
+NotUsingRelativePath                        -0.001064 -0.001211   -0.002308   
+MemoryManagementMismatch                    -0.000944  0.000070   -0.002048   
+LocalReferencesAbuse                         1.000000  0.015652   -0.001716   
+CLOL                                         0.015652  1.000000    0.367758   
+PrevFixing                                  -0.001716  0.367758    1.000000   
+CodeChurn                                    0.015862  0.996807    0.371971   
+
+                                 CodeChurn  
+excessiveInterlangCommunication   0.015880  
+Toomuchclustring                 -0.001321  
+ToomuchScattering                 0.001454  
+UnusedMethodDeclaration           0.023587  
+UnusedMethodImplementation        0.003654  
+UnusedParameter                   0.036971  
+AssumingSafeReturnValue           0.003798  
+NotHandlingExceptions             0.004670  
+NotSecuringLibraries              0.028179  
+HardCodingLibraries               0.028712  
+NotUsingRelativePath             -0.001277  
+MemoryManagementMismatch          0.000173  
+LocalReferencesAbuse              0.015862  
+CLOL                              0.996807  
+PrevFixing                        0.371971  
+CodeChurn                         1.000000 

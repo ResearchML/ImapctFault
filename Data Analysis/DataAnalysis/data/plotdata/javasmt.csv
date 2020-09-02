@@ -1,0 +1,11 @@
+ReleasesNB;NBUnusedParameter;NBUnusedMethodDeclaration;NBToomuchScattering;NBToomuchclustring;NBUnusedMethodImplementation;NBAssumingSafeReturnValue;NBExcessiveObjects;NBexcessiveInterlangCommunication;NBNotHandlingExceptions;NBNotCachingObjects;NBNotSecuringLibraries;NBHardCodingLibraries;NBNotUsingRelativePath;NBMemoryManagementMismatch;NBLocalReferencesAbuse
+1;27;2;0;2;0;0;0;0;0;0;0;0;0;0;0
+2;28;2;0;2;0;0;0;0;1;0;0;0;0;0;0
+3;30;2;0;2;0;0;0;0;1;0;0;0;0;0;0
+4;24;1;0;1;0;0;0;0;0;0;1;0;1;0;0
+5;26;1;0;1;0;0;0;0;0;0;1;0;1;0;0
+6;33;1;0;1;0;0;0;0;0;0;1;1;1;0;0
+7;36;1;0;1;0;0;0;0;0;0;1;1;1;0;0
+8;37;1;0;1;0;0;0;0;0;0;1;1;1;0;0
+9;37;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10;39;1;0;1;0;0;0;0;0;0;1;1;1;0;0

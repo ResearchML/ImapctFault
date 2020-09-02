@@ -1,0 +1,37 @@
+Id_Table,ID,Name,Variable,Method,Class,Package,File,File Name,System,Version,Release
+1,CS1,UnusedDeclaration,,put,PointerPointer<P extends Pointer>,org.bytedeco.javacpp,javacpp-0.9/src/main/java/org/bytedeco/javacpp/PointerPointer.java,PointerPointer.java,javacpp,javacpp-0.9,7/28/2014
+2,CS2,UnusedDeclaration,,allocate,Pointer,org.bytedeco.javacpp,javacpp-0.9/src/main/java/org/bytedeco/javacpp/Pointer.java,Pointer.java,javacpp,javacpp-0.9,7/28/2014
+3,CS3,UnusedDeclaration,,asDirectBuffer,Pointer,org.bytedeco.javacpp,javacpp-0.9/src/main/java/org/bytedeco/javacpp/Pointer.java,Pointer.java,javacpp,javacpp-0.9,7/28/2014
+4,CS4,UnusedDeclaration,,get,PointerPointer<P extends Pointer>,org.bytedeco.javacpp,javacpp-0.9/src/main/java/org/bytedeco/javacpp/PointerPointer.java,PointerPointer.java,javacpp,javacpp-0.9,7/28/2014
+5,CS5,UnusedDeclaration,,deallocate,Pointer,org.bytedeco.javacpp,javacpp-0.9/src/main/java/org/bytedeco/javacpp/Pointer.java,Pointer.java,javacpp,javacpp-0.9,7/28/2014
+6,CS6,UnusedDeclaration,,allocateArray,PointerPointer<P extends Pointer>,org.bytedeco.javacpp,javacpp-0.9/src/main/java/org/bytedeco/javacpp/PointerPointer.java,PointerPointer.java,javacpp,javacpp-0.9,7/28/2014
+7,CS7,UnusedDeclaration,,memset,Pointer,org.bytedeco.javacpp,javacpp-0.9/src/main/java/org/bytedeco/javacpp/Pointer.java,Pointer.java,javacpp,javacpp-0.9,7/28/2014
+8,CS8,UnusedDeclaration,,memcpy,Pointer,org.bytedeco.javacpp,javacpp-0.9/src/main/java/org/bytedeco/javacpp/Pointer.java,Pointer.java,javacpp,javacpp-0.9,7/28/2014
+9,CS9,UnusedDeclaration,,memchr,Pointer,org.bytedeco.javacpp,javacpp-0.9/src/main/java/org/bytedeco/javacpp/Pointer.java,Pointer.java,javacpp,javacpp-0.9,7/28/2014
+10,CS10,UnusedDeclaration,,memcmp,Pointer,org.bytedeco.javacpp,javacpp-0.9/src/main/java/org/bytedeco/javacpp/Pointer.java,Pointer.java,javacpp,javacpp-0.9,7/28/2014
+11,CS11,UnusedDeclaration,,memmove,Pointer,org.bytedeco.javacpp,javacpp-0.9/src/main/java/org/bytedeco/javacpp/Pointer.java,Pointer.java,javacpp,javacpp-0.9,7/28/2014
+12,CS12,NotSecuringLibraries,filename,loadLibrary,Loader,org.bytedeco.javacpp,javacpp-0.9/src/main/java/org/bytedeco/javacpp/Loader.java,Loader.java,javacpp,javacpp-0.9,7/28/2014
+13,CS13,NotSecuringLibraries,libname,loadLibrary,Loader,org.bytedeco.javacpp,javacpp-0.9/src/main/java/org/bytedeco/javacpp/Loader.java,Loader.java,javacpp,javacpp-0.9,7/28/2014
+14,AP14,ExcessiveInterLanguageCommunication,,get,BytePointer,org.bytedeco.javacpp,javacpp-0.9/src/main/java/org/bytedeco/javacpp/BytePointer.java,,javacpp,javacpp-0.9,7/28/2014
+15,AP15,ExcessiveInterLanguageCommunication,,put,PointerPointer<P extends Pointer>,org.bytedeco.javacpp,javacpp-0.9/src/main/java/org/bytedeco/javacpp/PointerPointer.java,,javacpp,javacpp-0.9,7/28/2014
+16,AP16,ExcessiveInterLanguageCommunication,,get,PointerPointer<P extends Pointer>,org.bytedeco.javacpp,javacpp-0.9/src/main/java/org/bytedeco/javacpp/PointerPointer.java,,javacpp,javacpp-0.9,7/28/2014
+17,AP17,ExcessiveInterLanguageCommunication,,deallocate,Pointer,org.bytedeco.javacpp,javacpp-0.9/src/main/java/org/bytedeco/javacpp/Pointer.java,,javacpp,javacpp-0.9,7/28/2014
+18,AP18,ExcessiveInterLanguageCommunication,,put,IntPointer,org.bytedeco.javacpp,javacpp-0.9/src/main/java/org/bytedeco/javacpp/IntPointer.java,,javacpp,javacpp-0.9,7/28/2014
+19,AP19,ExcessiveInterLanguageCommunication,,allocateArray,PointerPointer<P extends Pointer>,org.bytedeco.javacpp,javacpp-0.9/src/main/java/org/bytedeco/javacpp/PointerPointer.java,,javacpp,javacpp-0.9,7/28/2014
+20,AP20,ExcessiveInterLanguageCommunication,,get,CharPointer,org.bytedeco.javacpp,javacpp-0.9/src/main/java/org/bytedeco/javacpp/CharPointer.java,,javacpp,javacpp-0.9,7/28/2014
+21,AP21,ExcessiveInterLanguageCommunication,,put,BytePointer,org.bytedeco.javacpp,javacpp-0.9/src/main/java/org/bytedeco/javacpp/BytePointer.java,,javacpp,javacpp-0.9,7/28/2014
+22,AP22,ExcessiveInterLanguageCommunication,,allocateArray,BytePointer,org.bytedeco.javacpp,javacpp-0.9/src/main/java/org/bytedeco/javacpp/BytePointer.java,,javacpp,javacpp-0.9,7/28/2014
+23,AP23,ExcessiveInterLanguageCommunication,,put,CharPointer,org.bytedeco.javacpp,javacpp-0.9/src/main/java/org/bytedeco/javacpp/CharPointer.java,,javacpp,javacpp-0.9,7/28/2014
+24,AP24,ExcessiveInterLanguageCommunication,,get,IntPointer,org.bytedeco.javacpp,javacpp-0.9/src/main/java/org/bytedeco/javacpp/IntPointer.java,,javacpp,javacpp-0.9,7/28/2014
+25,AP25,TooMuchClustering,,,Pointer,org.bytedeco.javacpp,javacpp-0.9/src/main/java/org/bytedeco/javacpp/Pointer.java,,javacpp,javacpp-0.9,7/28/2014
+26,AP26,TooMuchScattering,,,CharPointer,org.bytedeco.javacpp,javacpp-0.9/src/main/java/org/bytedeco/javacpp/CharPointer.java,,javacpp,javacpp-0.9,7/28/2014
+27,AP27,TooMuchScattering,,,LongPointer,org.bytedeco.javacpp,javacpp-0.9/src/main/java/org/bytedeco/javacpp/LongPointer.java,,javacpp,javacpp-0.9,7/28/2014
+28,AP28,TooMuchScattering,,,CLongPointer,org.bytedeco.javacpp,javacpp-0.9/src/main/java/org/bytedeco/javacpp/CLongPointer.java,,javacpp,javacpp-0.9,7/28/2014
+29,AP29,TooMuchScattering,,,DoublePointer,org.bytedeco.javacpp,javacpp-0.9/src/main/java/org/bytedeco/javacpp/DoublePointer.java,,javacpp,javacpp-0.9,7/28/2014
+30,AP30,TooMuchScattering,,,IntPointer,org.bytedeco.javacpp,javacpp-0.9/src/main/java/org/bytedeco/javacpp/IntPointer.java,,javacpp,javacpp-0.9,7/28/2014
+31,AP31,TooMuchScattering,,,FloatPointer,org.bytedeco.javacpp,javacpp-0.9/src/main/java/org/bytedeco/javacpp/FloatPointer.java,,javacpp,javacpp-0.9,7/28/2014
+32,AP32,TooMuchScattering,,,BytePointer,org.bytedeco.javacpp,javacpp-0.9/src/main/java/org/bytedeco/javacpp/BytePointer.java,,javacpp,javacpp-0.9,7/28/2014
+33,AP33,TooMuchScattering,,,BoolPointer,org.bytedeco.javacpp,javacpp-0.9/src/main/java/org/bytedeco/javacpp/BoolPointer.java,,javacpp,javacpp-0.9,7/28/2014
+34,AP34,TooMuchScattering,,,PointerPointer<P extends Pointer>,org.bytedeco.javacpp,javacpp-0.9/src/main/java/org/bytedeco/javacpp/PointerPointer.java,,javacpp,javacpp-0.9,7/28/2014
+35,AP35,TooMuchScattering,,,ShortPointer,org.bytedeco.javacpp,javacpp-0.9/src/main/java/org/bytedeco/javacpp/ShortPointer.java,,javacpp,javacpp-0.9,7/28/2014
+36,AP36,TooMuchScattering,,,SizeTPointer,org.bytedeco.javacpp,javacpp-0.9/src/main/java/org/bytedeco/javacpp/SizeTPointer.java,,javacpp,javacpp-0.9,7/28/2014

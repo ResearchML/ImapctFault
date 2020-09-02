@@ -1,0 +1,269 @@
+data_size: 874
+Column: excessiveInterlangCommunication
+-------------------------
+0     852
+2      10
+4       4
+3       4
+1       2
+18      1
+5       1
+Name: excessiveInterlangCommunication, dtype: int64
+-------------------------
+Column: Toomuchclustring
+-------------------------
+0    862
+1     12
+Name: Toomuchclustring, dtype: int64
+-------------------------
+Column: ToomuchScattering
+-------------------------
+0    853
+1     21
+Name: ToomuchScattering, dtype: int64
+-------------------------
+Column: UnusedMethodDeclaration
+-------------------------
+0      853
+5        3
+4        3
+3        3
+260      1
+256      1
+214      1
+45       1
+17       1
+15       1
+13       1
+9        1
+8        1
+7        1
+2        1
+1        1
+Name: UnusedMethodDeclaration, dtype: int64
+-------------------------
+Column: UnusedMethodImplementation
+-------------------------
+0     872
+19      1
+5       1
+Name: UnusedMethodImplementation, dtype: int64
+-------------------------
+Column: UnusedParameter
+-------------------------
+0     776
+1      34
+2      15
+3      13
+4      12
+20      3
+19      3
+10      3
+7       3
+35      2
+27      2
+6       2
+5       2
+57      1
+50      1
+15      1
+8       1
+Name: UnusedParameter, dtype: int64
+-------------------------
+Column: NotHandlingExceptions
+-------------------------
+0     869
+2       3
+11      1
+6       1
+Name: NotHandlingExceptions, dtype: int64
+-------------------------
+Column: NotSecuringLibraries
+-------------------------
+0    863
+2     10
+4      1
+Name: NotSecuringLibraries, dtype: int64
+-------------------------
+Column: HardCodingLibraries
+-------------------------
+0    869
+1      4
+2      1
+Name: HardCodingLibraries, dtype: int64
+-------------------------
+Column: NotUsingRelativePath
+-------------------------
+0    873
+8      1
+Name: NotUsingRelativePath, dtype: int64
+-------------------------
+Column: MemoryManagementMismatch
+-------------------------
+0    873
+8      1
+Name: MemoryManagementMismatch, dtype: int64
+-------------------------
+Column: LocalReferencesAbuse
+-------------------------
+0    871
+4      3
+Name: LocalReferencesAbuse, dtype: int64
+-------------------------
+Column: CLOL
+-------------------------
+4065     36
+13853    22
+39617    15
+34       14
+6759     12
+1017     12
+434      11
+25764    11
+128       9
+9317      8
+8125      7
+355       7
+2         7
+107       6
+90        6
+458       6
+37        6
+190       6
+72        6
+862       6
+98        5
+520       5
+2563      5
+188       5
+252       5
+122       5
+18634     5
+7595      4
+53        4
+70        4
+         ..
+596       1
+599       1
+601       1
+5053      1
+1572      1
+543       1
+1512      1
+3504      1
+490       1
+3563      1
+492       1
+14538     1
+12786     1
+504       1
+1095      1
+1531      1
+1535      1
+2171      1
+78340     1
+786       1
+14856     1
+6665      1
+678       1
+530       1
+6709      1
+2582      1
+535       1
+14872     1
+5661      1
+21879     1
+Name: CLOL, Length: 476, dtype: int64
+-------------------------
+Column: PrevFixing
+-------------------------
+0     752
+2      30
+1      19
+4      19
+9       7
+3       7
+6       6
+7       5
+8       5
+78      4
+34      3
+47      2
+24      2
+35      2
+13      2
+15      1
+14      1
+10      1
+18      1
+19      1
+31      1
+5       1
+42      1
+44      1
+Name: PrevFixing, dtype: int64
+-------------------------
+Column: CodeChurn
+-------------------------
+2       26
+3       26
+65      22
+7       20
+8       18
+5       17
+4       15
+11      15
+6       14
+9       14
+15      12
+123     12
+16      11
+27      11
+22      10
+125     10
+10      10
+19       9
+56       8
+51       8
+24       8
+25       8
+26       8
+42       8
+70       8
+32       7
+14       7
+18       7
+23       7
+36       6
+        ..
+117      1
+426      1
+1138     1
+112      1
+166      1
+169      1
+222      1
+170      1
+221      1
+219      1
+218      1
+211      1
+210      1
+208      1
+1357     1
+3082     1
+203      1
+202      1
+4475     1
+194      1
+193      1
+1215     1
+190      1
+189      1
+381      1
+385      1
+1025     1
+176      1
+174      1
+1066     1
+Name: CodeChurn, Length: 319, dtype: int64

@@ -1,0 +1,1699 @@
+
+Bug-fix Commit: 3c83363c037c27272ef188eeb631f92c46ea9c3a Date: 2000-01-31 Msg: Corrected a type and two RFC links.
+Bug-inducing commit(s)
+================================================
+d2285d74ac4da8e803676845e24fbfd1f6c4c9d4 2004-01-07
+------------------------------------------------
+
+Bug-fix Commit: 5e0acddcb73671d5060eb58174111cc7a0712cba Date: 2000-02-09 Msg: Added plug for bug votes on the jar file specification bug.
+Bug-inducing commit(s)
+================================================
+d2285d74ac4da8e803676845e24fbfd1f6c4c9d4 2004-01-07
+------------------------------------------------
+
+Bug-fix Commit: 81c7d75aa49aae7b8907b9b39a053afac4d7d894 Date: 2004-05-05 Msg: Fixes to some problems reported by Filip Hrbek
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 72ef52b745e531978c29c5394d5683829852a58e Date: 2004-08-11 Msg: Fix for bug #907 and #908
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 7e0f3eeffd4d357717ad7c3b52c80a3878c60247 Date: 2004-08-13 Msg: Fix bug #912
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 56edac6ca6928a9bc07ea64d9d81af754a8b70a1 Date: 2004-08-16 Msg: Fix of bug 915 and 916
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: d5d4c3b9b037b730a91499477875d53d985f96ce Date: 2004-08-17 Msg: Win32 makefile fixes
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 854f0e9f069dbd957c61d87a99a8ae8e8bdecb50 Date: 2004-09-20 Msg: Fixed bug occuring sporadically on re-entry.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 68e38a65ed52315b728ed2de9f6294a634f6443b Date: 2004-09-20 Msg: Fixed some gcjh compiler problems
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: e926df4529f6746060744dee2625e631000b2752 Date: 2005-01-01 Msg: Fixed bug in hash key calculation
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 9132775475568b6848d94b1938d22082c6f999e1 Date: 2005-02-15 Msg: Fixed usage text (-jar deploy.jar => org.postgresql.pljava.test.Tester)
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: aa939a6e31cad3df08689fac7e75d1967b6a25f8 Date: 2005-02-17 Msg: Fixed several int X short mismatches. Changed byte[][] to Object[] for new version of SyntheticResultSet
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 3efcf8361523c104d763da6ef0c4830bd85bf36e Date: 2005-02-19 Msg: Fixed: example.jar => examples.jar
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 98caaa6d88ec563f878d0c72589573a23d50eef0 Date: 2005-02-20 Msg: Fixed problem of unset JAVA_HOME
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 84e391ec7903a1cef3f7bf250b7e3f895e70e535 Date: 2005-02-21 Msg: Fixed COPYRIGHT year and version number for javadoc.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 8bf121b8f35ac071a8f6b8136be3beb809d2118a Date: 2005-02-21 Msg: Fixed glitch that made GCJ compilation fail.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: ad72381836f43092d5ca620315e1687c52d9ed53 Date: 2005-02-21 Msg: Fixed typo
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 2456c826e6535634f609dfdb383e0b46334bf298 Date: 2005-02-21 Msg: Fixed typo
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 8845e1778b00a6c824f0e5143ea1d3f3f1a8dae7 Date: 2005-02-24 Msg: GCJ bug #20193
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 0442f04e8f7305ee0626911c76a0d6b346b9ea00 Date: 2005-03-07 Msg: Fixed misspelt "search"
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 51ae941351c39b7e736b65c176987bf368d0df91 Date: 2005-03-07 Msg: Fixed some comments
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 51e0f3d78d24935200d7074e8eab48ad4f70e526 Date: 2005-03-08 Msg: Fixed bug #1206
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: afb661881c9045711ca29bb094d715df3d0520fd Date: 2005-03-13 Msg: Fixed bug #1215
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 56777d0892eb2d4c45c2974d86ca855221323678 Date: 2005-03-14 Msg: Fixed bug# 1216
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 0e34314ffcda8841686cc2548ad189b3f614608b Date: 2005-03-14 Msg: Fixed bug# 1216
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 349b5ed1b4679eb525f163a17f8d042d47b85e03 Date: 2005-03-14 Msg: Fixed bug# 1218
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 9cb1e302d393ea17f049e0e242768f514411d820 Date: 2005-03-17 Msg: Fixed ArrayIndexOutOfBounds exception reported by Petr Michalek
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 12c3fe9a490ee219bda196f546093d80e0f927da Date: 2005-03-17 Msg: Fix for bug #1228
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: a1c04e339f83a6e7c82bbf9327041bf9c29d7de5 Date: 2005-03-18 Msg: Fixed misspelled "Retrieved"
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 7c121a80162349a15c9dfb11586657064651752c Date: 2005-03-18 Msg: From now getWarning throws an exception on a closed statement, according to JDBC specification
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: b826cef5277dfe1e733bc3d335ec6d2e18abcaa4 Date: 2005-03-20 Msg: Fixed bug #1231
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 2b90695c0bcde5e0c4841c6068421e65384c25c5 Date: 2005-03-26 Msg: Fixed typo
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: ba20b1e81e64ac1bc934a7bcf1bd6c45c258ee1c Date: 2005-03-26 Msg: Fixed typo
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 1b1e31b3255ba8c605ff65825cc2248b7ab096a3 Date: 2005-03-27 Msg: Better exception handling
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: ad1df28d39c42b6f57686829a761def6b59c5242 Date: 2005-03-28 Msg: Added missing FlushErrorState after CopyError
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 11fcc31e9401b4a96230cf959d2450d4caa6b850 Date: 2005-03-30 Msg: Fixed bug causing primitive arrays to fail.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: d84a67ea8440ee45264e62297f47d4fd31ea538d Date: 2005-04-13 Msg: Avoid segfault when TupleDesc cannot be determined
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: bbe17b6c18d2b9049389f5c484e1df4b29dc42a9 Date: 2005-09-28 Msg: fixed typo in filename
+Bug-inducing commit(s)
+================================================
+ 
+------------------------------------------------
+
+Bug-fix Commit: e7125ce1454f8335833ae8260dcf455e4aadadbc Date: 2005-09-28 Msg: Fixed bug that caused crash when initializing using incorrect pljava.classpath
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 233632b2bd5fc5a467318379ac6a9b7aea993fc3 Date: 2005-10-16 Msg: Dropped support for versions prior to 8.0. Fixed bug causing stack check failur when backend was called from thread other than main Fixed stability issue related to GC and MemoryContexts
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 1c5f9d1b19aa9f682fff4ac28e7451d5dc61178e Date: 2005-10-19 Msg: Fixed needed code to accomodate API change for LargeObjects
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 6d4f7630e9a67c510fbd9e169acfcd55d60f11ee Date: 2005-10-19 Msg: Fixed so that LargeObject functionality is initialized on startup.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 44ea02c2df5c60b8861482034ce4c358220e6878 Date: 2005-10-19 Msg: Fixed typo
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 259b433410a74b2caaae3360b23b415e1bcfee84 Date: 2005-10-20 Msg: Fixed portal clean-up.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 1864bfbb2e78bfe2da0e7ab92e17bf25e3136f6c Date: 2005-10-20 Msg: Fixed bug causing crash after fence rewrite when returning tuples.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 95c5cbff03722a0a9a67086b3951c4ecc6e8c9ef Date: 2005-10-21 Msg: Fixed exception related error.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 02b8f2124972519989eb16a4e97e5540cd2849ad Date: 2005-10-21 Msg: Java exception can no longer elog.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 22935a9b70c68f5df82860aa40d9df5b5bd09c5d Date: 2005-10-21 Msg: Fixed monitor glitch apparent on SMP systems.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: a98f49788f36a9a8f32f26f38bd2b8e419f163af Date: 2005-10-21 Msg: Fixed issue with overloaded methods.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 8b19541cd498881ff6027aadf883f4c842fd9ffb Date: 2005-10-26 Msg: Reinstated Exception traces when log level >= DEBUG1 Merged Invocation and CallContext Cleanup and refactoring
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: d12016a991b090667ec73e6678471aedb95253a5 Date: 2005-10-29 Msg: Fixed typo
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 9620319666ce0e914b85632bc533f7cf12b85cc1 Date: 2005-11-20 Msg: Fixed signed/unsigned warnings
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 25ba9028f3ac91982ab66d55b452d408460c6d7a Date: 2005-11-20 Msg: Fixed signed/unsigned warnings
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 12e503bbb4a9365e29a760dd94d31b016d8f5be4 Date: 2005-11-20 Msg: Fixed signed/unsigned problem.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 2ce5d732c12993947cd8c51cf2ef0e520f77a234 Date: 2005-11-20 Msg: Fixed signed/unsigned warning
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 2b1437ae3784bbf1b3903d2814b78159c427303c Date: 2006-01-23 Msg: Fix for bug #1440
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 840d9baf3e991205c93780b4fc391684464d35b5 Date: 2006-01-24 Msg: Fixed support for parameters of type RECORD.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 8afd33ccb8a2a56e92dee9c9ced81185ff0bb34d Date: 2006-01-25 Msg: Fixed bug #1506. Jar owner in the sqlj.jar_repository table changed type from oid to name.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 901a73eb59fd0ccdee609d5280eb54e48aeb7180 Date: 2006-02-26 Msg: Fixed bug #1420 and #1423
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: b76c37b40d0ea99ae2faf71b14119db37a339239 Date: 2006-02-26 Msg: fixed typo
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: d0dbeede239d00dec920f3c50d95809acc17900d Date: 2006-02-28 Msg: Fixed broken source_tarball target Refactored some Java 5 dependent code
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: fa487ffb1e6490c8f322859256d92e57ed5fc90c Date: 2006-03-21 Msg: Fixed some memory leaks
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: e7fced2df49e53ceaa3f566fe87623ed978ec64d Date: 2006-03-21 Msg: Fixed some memory leaks
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 84b1776d964c4e68e97fe7fc3f37cc2d127f2be4 Date: 2006-03-22 Msg: Fixed bug #1542
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: cf07f62f168268640de458a712f4cd46ef918dc9 Date: 2006-03-22 Msg: Fixed bug #1317
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 01f2027cd72c1abf4811bfc3b6e9ad5a2da2f204 Date: 2006-03-22 Msg: Fixed memory leak that occured during recursive calls to function returning sets
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: efa76a6b7645e410731c10cec532ef6e6ea9f3f1 Date: 2006-03-23 Msg: Testcase covering bug #1317
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 8d57da8d8ada4aadf83983f32fa7603515f4167e Date: 2006-03-31 Msg: Fix for bug #1547
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: b15fd67c98180d20697b39b7a793c66cf3f9440d Date: 2006-03-31 Msg: Fix for bug #1547 in the other direction.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 25fd6df0e1787a748ebf5000c76c01fbdc72e789 Date: 2006-04-05 Msg: Fixed bug causing incorrect representation of Time when DST is in effect.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 599817968df01b36cc1aa8324a2000af85e6afdf Date: 2006-04-11 Msg: Fixed warning about signedness on char argument
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 377dae249b6b174cbbfb2d030519032f80a219a9 Date: 2006-04-29 Msg: Fixed typo
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 541ca3f3e6f449d2537a4f8f22a7f76cfe9d9054 Date: 2006-04-29 Msg: Improved exception handling
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: bac6a3fe56032a91fcad94efa9f7b52bfb5c3d70 Date: 2006-05-12 Msg: Fix of bug #1556
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 1d46cee95939d9ee999f2e0cbbdca746408e5cb1 Date: 2006-05-12 Msg: Fixed copy/paste mistakes
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 156a2b89f9dcd56fb0283a8ac08d6dfc06fc42ed Date: 2006-05-12 Msg: Fixed bug causing numbers to come out as Strings rather than BigDecimal
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: dda3f86af49ebf7f4a767416de4e14a68f515095 Date: 2006-05-14 Msg: Fixed glitch causing bytea[] to fail. Added "char"[]
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 7f19d99059992cacda07e591d5e825f6b576200d Date: 2006-05-15 Msg: workaround to avoid the "commands commence before first target" error - probably a make bug
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 1cfadfca1a26503e4688f0fcc2aa6cd368fb52eb Date: 2006-05-15 Msg: PG_CONFIG now overridable Fixed bug concerning self referencing when building with GCJ
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 1d80485f20804feb7b4a97f71eefaa9fbdaa4ffa Date: 2006-05-15 Msg: Fixed some backward compatibility issues Added explicit coercion capability
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: e47e04a4694bb29feb8b2163f811d96013a9c2e0 Date: 2006-05-28 Msg: Fixed bug 1558
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 2590c859e8f972a31413764a03f15d2ed835c5da Date: 2006-06-23 Msg: Fixed stack backtrace on failure to load class
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 6a7eda5c5bf1c4c7aadca07cab656c834b17d6d4 Date: 2006-09-25 Msg: Fixed some issues with Meta-data
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 9a7344c000820f0942bd218a539f06a9b7a7cd44 Date: 2007-05-27 Msg: Had wrong version check here.  We only want SET_VARSIZE for 8.3+.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 1ed1f3f1335db0556688241461876e38f55cf0c6 Date: 2007-11-15 Msg: When deploying a jar file with a deployment descriptor, the deployment failed if the default schema already had a classpath set.  A typo was setting the current schema value to the classpath, instead of the default schema.  When trying to set the new classpath this bailed out with "No such schema: <classpath>".
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: d9b0fedd86a434ce3fec09f879ae93b013204fac Date: 2007-11-15 Msg: Batch execution of PreparedStatements failed because addBatch was only saving off the parameter values while it ignored the parameter types.  Save both the types and values.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: b9de72e35871bd6df3519261e1bb5c5652cb7872 Date: 2007-11-16 Msg: When doing batch execution with batches that have different types, the server crashes because it did not replan the query for the new types.  Save the type information for each batch and compare it with the previous values to see if we need to replan.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: edc28317270c5333a42a47571165c6c83387ac4b Date: 2008-02-01 Msg: For a server built with integer datetimes, conversion from SQL to Java timestamps produced bogus results as the result of overflow. Prior to conversion to milliseconds, cast the difference in PG and Unix epochs to a 64 bit type.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: e5a089a0b21bb928fd14b8cc4e85087595f0d377 Date: 2008-05-25 Msg: For a multi-threaded pljava function we need to adjust stack_base_ptr before calling into the backend to avoid stack depth limit exceeded errors.  Previously this was done only on query execution, but we need to do it on iteration of the ResultSet as well.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 0b2b72163183799ee1fb36c798ecc6adec1e6559 Date: 2008-06-04 Msg: When executing a statement, we want to make sure any previous state was cleaned up, so the code was calling close().  This additionally set a closed flag which would throw exceptions later saying that you can't call various methods because the Statement is closed.  It's not actually closed, so split the internal cleanup routine to clear() and make close() something that only a user should call.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: f8b5c4d5e5ad235183966795c84873d284fd50d3 Date: 2008-10-09 Msg: Code in a TransactionListener which tried to make a backend call would crash because the Invocation context was not setup.  Some simple backend calls might be safe, but we really don't want any user code calling into the backend when we're at transaction end, so prevent all access.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: f52e17480b55925ce9504dabef52285b8d717376 Date: 2009-02-10 Msg: The previous commit to fix custom variable setup was busted.  The argument order was wrong for integer variable setup.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 9cbfb1b96ce0a6ad46d1a2d28f6294b7b937ab4f Date: 2009-02-19 Msg: If the call to a type output function is the first pljava call in a session, we get a crash.  The first pljava call results in a SPI connection being established and torn down.  The type output function was allocating the result in the SPI memory context which gets destroyed prior to returning the data to the caller.  Allocate the result in the correct context to survive function exit.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 176271f05d01f6e9a2e75213ae08a856532f3e46 Date: 2010-10-11 Msg: Fix ambiguity when compiling with Java 6.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: e3e41be231e2a1a5178e17a9a05bd4966b12f027 Date: 2010-11-30 Msg: Bugfix #1010189: javac is now called with -g if it's present in pg_config --cflags.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 24c645acacd0165e3ea38050f3974023db7601fe Date: 2010-12-07 Msg: Bugfix #1010712: Memory leak plugged.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 5e6a91c507d6ae21b395d762b2ce55b3d34e3681 Date: 2010-12-09 Msg: Bugfix: 1010954
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 1291eff00b54217e2826f6a6eb7f84338117144c Date: 2010-12-10 Msg: Bugfix 1010953: Segfault when assigning an array to ResultSet column
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: eab21736b87d61023d24aeaf04414d97133cdc30 Date: 2010-12-11 Msg: Bugfix 1010956: Function returning complex objects with POD arrays cause a segfault
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: ba002aba48eda72aaae1579438e9b4510fe46274 Date: 2010-12-11 Msg: Bugfix 1010956: Function returning complex objects with POD arrays cause a segfault
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: cdc27cf51086e1cfcba03f0a68d13f82a5f115fc Date: 2010-12-11 Msg: Bugfix 1010956: Function returning complex objects with POD arrays cause a segfault
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: bb1e6011be1fe896281854c7575d74c65c82695f Date: 2010-12-11 Msg: Bugfix 1010956: Function returning complex objects with POD arrays cause a segfault
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 9699ff937eb78d5a1fe806280e592c4fc24c61e3 Date: 2010-12-11 Msg: Bugfix 1010956: Function returning complex objects with POD arrays cause a segfault
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: bf17be62ce17159fe0d5bcbc08543dff594924a6 Date: 2010-12-27 Msg: Bugfix 1010660: Be clear about not building with JDK 1.6
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 7896b4c58ee85cdea56acc61b0ad442a7ad367bf Date: 2011-01-03 Msg: Bugfix: 1010971 SPIConnection.getMetaData() is incorrectly documented
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 3ab9f9d32ec5c6f5f405b2b24e382f7fc58e23a9 Date: 2011-05-02 Msg: Bug 1011025: PL/Java now compiles with x86_64-w64-minw32.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 8f27ffb236f5b029c37916426f9ea3ae890378f9 Date: 2011-05-02 Msg: Feature Request 1010955: Fix "endif."
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: d83375d068839745f7a5930cddcac07fb7410771 Date: 2011-05-02 Msg: Bug 1010970: Add searchpath for IBM Java.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 63347c1eb9b9959757359c18d406b8b9f55911b7 Date: 2011-05-02 Msg: Bug 1010970: Fix IBM search path.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 35da95bc408f53cac08df508d0b5c0623bdb6c4f Date: 2011-05-02 Msg: Bug 1010970: Fix IBM search path (again).
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 7ac57e47a308fa496087b655d5919250b536527e Date: 2011-09-14 Msg: BUG 1011091: Unify calls to GetConfigOption.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 6926ee4d6d97db9203dcd67c43763ff2a0c87649 Date: 2011-11-15 Msg: Bug 1011119: Let Postgres' bool --> java.sql.Types.BOOLEAN match Java's java.sql.Types.BOOLEAN --> Postgres' bool.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 92a17b864d8c672db2b5b1a7c61ac941e827f9bd Date: 2012-03-30 Msg: WIP 1011095: Proposed change to fix loading of security related classes.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 622d0acaacab028bdef69c9768f15772f9dd9add Date: 2012-03-30 Msg: Bugfix 1011181: PL/Java fails to compile with -Werror=format-security.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: fef4c92c1c2c652290a7399a0a8f666df7b7fa6e Date: 2012-05-28 Msg: BUG 1011197: PL/Java builds on POWER 7.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 641f02b71cf567ff03cafd23fb3af01f42318ee1 Date: 2012-06-20 Msg: Bug 1011206: Use correcd SQL error state when throwing exceptions.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 5df26287d51576c9098d6c6c6034878f96549073 Date: 2012-06-21 Msg: Bug 1010962: Release tuple descriptor once copied.  Heikki Linnakangas.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: af29f2b4139646f18ac5dd34222cf839dbfa2195 Date: 2013-02-13 Msg: fixes bug that prevents setting enums from java procedures
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 8c666b0430483d814fd04334646a8e6d0d760bf8 Date: 2013-02-21 Msg: Merge pull request #5 from r0ml/fix_enum
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 3e28bb9b6778fdbba15833c88d2bc28d6631b591 Date: 2013-02-22 Msg: Changes incorrect function call.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: d6e5c04f030c1bc9bc4fe57560b2f76ffdab46b2 Date: 2013-02-23 Msg: Fix for segfault if SETOF RECORD-returning function used without AS
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: fbf5aeb45207f7b74ce1482b6a1144c0aaea1cd1 Date: 2013-03-03 Msg: Merge pull request #13 from jcflack/bug/master/contravariance
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: d5c603efa69bf7f2b694c1ce38d80a4fe85ff253 Date: 2013-07-04 Msg: Changes are required because of move of GETSTRUCT() and timeout handling framework changes done in PG 9.3. Along with that I fixes minor issue in DDRProcessor.java that is causing "illegal start of expression" error. Maven did not worked for me to build it and hang endlessly while building c source code (pljava-so). As a workaround I temporarily fixed makefiles to test PG9.3 related fix that seems worked and generated pljava.jar and pljava.so files and their basic sanity seems working fine.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 191c2fbefc72d35cf182fbac526a797b2a5a037b Date: 2013-07-04 Msg: Merge pull request #19 from asifnaeem/PG93Fix
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 7b5f28d79c8bc6d517634273be8f82df6cb242eb Date: 2014-10-23 Msg: fix 'SETOF SETOF VARCHAR' in autogenerated SQL
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 3ae5d07b44d7cbc3ebdaec6e430388e253bcb54d Date: 2015-01-30 Msg: Fix compilation error against 9.4 due to a missing function argument.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: cc60d4aa8f0048229e34bc3c630025e711dda8ab Date: 2015-07-13 Msg: Fix obsoleted query in sqlj.replace_jar.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 0e5e1f30644624931b6e7f501266619590f47116 Date: 2015-07-14 Msg: Merge pull request #40 from jcflack/bug/master/replaceJar
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 4605e0bc766218c6d0934b14852a06a89d4a2e4b Date: 2015-07-14 Msg: Workaround the problem reported in #39.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: db7fd6634d0267a5d311f9e1869598e325e23732 Date: 2015-07-15 Msg: Merge pull request #41 from jcflack/bug/master/ddrorder
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: a23bf503d04bc38251f64deb2d46e23077d2975c Date: 2015-07-15 Msg: Address #8 spurious error with zero-arg method sigs.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 523d169b73b1071975c83e3f93b39d03e2e6716a Date: 2015-07-15 Msg: Merge pull request #43 from jcflack/bug/master/noargsigs
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 16603f6f50be238944732efd3c2443c935fa3a1d Date: 2015-07-20 Msg: The rest of "Bugfix 1011181"
+Bug-inducing commit(s)
+================================================
+5fffb2b5c4f8d791b193e182302ba28b4de16266 2015-07-18
+------------------------------------------------
+
+Bug-fix Commit: 328fc5da35a2504043332b256bddf97b71e04532 Date: 2015-07-21 Msg: Merge pull request #45 from jcflack/bug/master/1011181
+Bug-inducing commit(s)
+================================================
+ 
+------------------------------------------------
+
+Bug-fix Commit: dbf2bdcd565a14ce122d8bd863ee9704232ece6c Date: 2014-07-05 Msg: Fix to allow building pljava with Microsoft Visual C
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: c585355db1128bd22338351f267f2242af7e6bcb Date: 2015-08-13 Msg: Rename generic properties to remove extraneous msvc prefix.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: d08eb353df8e6a2cf9b57ee34b56eb25b0f38575 Date: 2015-08-17 Msg: Merge pull request #29 from kenolson/bug/master/msvc_build
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: c64b502a25d160692bafa1d6df4e5619ccdcb2d9 Date: 2015-09-20 Msg: Note limitation of the workaround in pull #42.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 44310eb5698243d0fc8b6940d0ea039d74fdfd00 Date: 2015-09-21 Msg: Merge pull request #51 from jcflack/javadoc/master/jdk7-anno-bug
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 42bdb13927f92c1776f5309a40c108279c7ffa79 Date: 2015-09-24 Msg: Fix varlena UDT breaking if longer than 32767.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 2d5d1f09073c84f775a7b7b0fbdaa7725a72b982 Date: 2015-09-27 Msg: Only ignore the expected exception in method lookup.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 9579c491954a5ff401a52d295b77aa8f824861ac Date: 2015-09-28 Msg: Merge pull request #55 from jcflack/bug/master/issue54
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: ab81bc7d72152017d3391f9dcfe84be20a20d3ab Date: 2015-10-04 Msg: Test case for issue 21 Unicode handling.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: cbb27e24f5c9836484867664501386902a92e81f Date: 2015-10-04 Msg: Fix latent bug in unused method.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: afe51d138eef79b2ebffdb9cff7a8419cf7cb2da Date: 2015-10-08 Msg: Add testcase with enum parameter and return types.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 8e5af450556bf7056862ef94d9ab97a68b173506 Date: 2015-10-09 Msg: Merge pull request #57 from jcflack/bug/master/issue21
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 837b03bc2397606d1a21c07bec487c7f9e9eb1f8 Date: 2015-10-09 Msg: Merge pull request #58 from jcflack/bug/master/issue4
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: fe2297e7f46e23f4f64363c8e16d6be0d809f86b Date: 2015-10-18 Msg: Get that issue 52 test into the tree.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 1af100588b70badc4b10327d0904f7faff5bb061 Date: 2015-10-18 Msg: Add a class annotation to make a base/scalar UDT.
+Bug-inducing commit(s)
+================================================
+43072b64ee1dff88d3c6bcff205cff522528ee78 2015-10-18
+------------------------------------------------
+
+Bug-fix Commit: ef8bd76073ccb50dcbb6b2d396edbd6b0116396b Date: 2015-10-19 Msg: Conform to Point/ComplexTuple renames.
+Bug-inducing commit(s)
+================================================
+1af100588b70badc4b10327d0904f7faff5bb061 2015-10-18 
+------------------------------------------------
+
+Bug-fix Commit: ef8bd76073ccb50dcbb6b2d396edbd6b0116396b Date: 2015-10-19 Msg: Conform to Point/ComplexTuple renames.
+Bug-inducing commit(s)
+================================================
+21d8b59b881fbcd971a9349b65a18f59f2ab6824 2015-10-18 
+------------------------------------------------
+
+Bug-fix Commit: f97825bf174a266621cd0c741b7d3f97b3cc9829 Date: 2015-11-12 Msg: Expand $libdir a simpler way.
+Bug-inducing commit(s)
+================================================
+340b56bd551eb985e0dedf1e6084a036c224602c 2015-11-12
+------------------------------------------------
+
+Bug-fix Commit: 11fd938bd01f963acaa624e776d96a5b602eace0 Date: 2015-11-12 Msg: Merge pull request #66 from tada/bug/master/coerceout
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: a0ffcd271c0c0b38f00d4086c38bc84ea6ea60b0 Date: 2015-11-13 Msg: Unbreak packaging subproject.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 68d6459aca76b63804f2f62715dfcfcce411cc06 Date: 2015-11-25 Msg: Only fix javadoc nits that JDK 8 calls errors.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 27aff9b7f92579491c4c513a73f0c9a150112f2f Date: 2015-11-07 Msg: Resolve OS X build problems (issue 63).
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: f0c07c6766bfc03b402869d4c25ea22c20da7379 Date: 2015-12-09 Msg: Merge pull request #72 from tada/bug/master/issue63rb1
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 583b0579ed46b860d07f81512f891d753ed50ec7 Date: 2015-12-11 Msg: Fix overlooked consequence of pull req 68.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: f25b6eba75184903dd3c563ceb3adafd9def2a1b Date: 2015-11-01 Msg: Avoid crash on exception before String_init.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 257f9e6c0563b161f995980187fcc1399b68b60f Date: 2015-12-15 Msg: Merge pull request #74 from tada/bug/master/issue61
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: f05c3d7d24c1f449a3fb69edf9901098ba8eff73 Date: 2015-11-19 Msg: Part of issue #12, schema migration.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 10ea1e50ab26d8e5d36abbf569471a8775a627c1 Date: 2015-11-21 Msg: Don't leave SET ROLE broken after DDR execution.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 33da444db1034459beb2d6d5c81911c9db84d10e Date: 2015-11-21 Msg: Don't fail in remove_jar if schema dropped.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: a0f17a59b1709b4510ba84de9e86bb04ab52fa93 Date: 2015-12-15 Msg: One cut/paste error caught late.
+Bug-inducing commit(s)
+================================================
+92cd3f7247dcdc2f1d7d76b2b187de09fb4b4432 2000-01-29
+------------------------------------------------
+
+Bug-fix Commit: 10ea1e50ab26d8e5d36abbf569471a8775a627c1 Date: 2015-12-15 Msg: Don't leave SET ROLE broken after DDR execution.
+Bug-inducing commit(s)
+================================================
+373a80d7ef1d4c84f2efc927baa194390a162bd0 2015-12-15 
+------------------------------------------------
+
+Bug-fix Commit: 33da444db1034459beb2d6d5c81911c9db84d10e Date: 2015-12-15 Msg: Don't fail in remove_jar if schema dropped.
+Bug-inducing commit(s)
+================================================
+ac425e085bf91c2488706ef8a3d8e4a1b77791ab 2015-12-15
+------------------------------------------------
+
+Bug-fix Commit: f05c3d7d24c1f449a3fb69edf9901098ba8eff73 Date: 2015-12-15 Msg: Part of issue #12, schema migration.
+Bug-inducing commit(s)
+================================================
+ac425e085bf91c2488706ef8a3d8e4a1b77791ab 2015-12-15
+------------------------------------------------
+
+Bug-fix Commit: 46ee44b019616afa229a0267bb7ccc01c02ec729 Date: 2015-12-20 Msg: Type_getCoerceOut correct statement order.
+Bug-inducing commit(s)
+================================================
+340b56bd551eb985e0dedf1e6084a036c224602c 2015-11-12
+------------------------------------------------
+
+Bug-fix Commit: 3d6e0dfbc3a06046b7dfe3d9f81eb381f6e9367b Date: 2016-01-02 Msg: Correct two converted conditions.
+Bug-inducing commit(s)
+================================================
+36cbd476a39681e5d7227f3d54e6a8fb1c36b652 2015-11-12
+------------------------------------------------
+
+Bug-fix Commit: 3d6e0dfbc3a06046b7dfe3d9f81eb381f6e9367b Date: 2016-01-02 Msg: Correct two converted conditions.
+Bug-inducing commit(s)
+================================================
+f7c5d64a6ffc96d57325c1f8b1e9b8862baf9b2b 2015-12-23
+------------------------------------------------
+
+Bug-fix Commit: 74cc1dab78fec84160eb7c6622ecb53cd8c880a9 Date: 2016-01-03 Msg: Workaround Windows creating_extension visibility.
+Bug-inducing commit(s)
+================================================
+ac425e085bf91c2488706ef8a3d8e4a1b77791ab 2015-12-15
+------------------------------------------------
+
+Bug-fix Commit: 82ad1da608df5af9c708ff7015f4c4a13d8c977d Date: 2016-01-14 Msg: Improve message in strange javac error case.
+Bug-inducing commit(s)
+================================================
+21d8b59b881fbcd971a9349b65a18f59f2ab6824 2015-10-18 
+------------------------------------------------
+
+Bug-fix Commit: da13b65ebe931ac45f60e059840ab77a993fe84d Date: 2016-01-15 Msg: Run unicode roundtrip test only on UTF8 server.
+Bug-inducing commit(s)
+================================================
+36cbd476a39681e5d7227f3d54e6a8fb1c36b652 2015-11-12
+------------------------------------------------
+
+Bug-fix Commit: 1eb3bd8d74b827f92b3e2cad06f8e010751446a0 Date: 2016-01-24 Msg: Make DEBUG1 quieter.
+Bug-inducing commit(s)
+================================================
+e8e2c714078c55de9dfdfdb44ca487d264f0df39 Date: 2016-01-24
+------------------------------------------------
+
+Bug-fix Commit: 1eb3bd8d74b827f92b3e2cad06f8e010751446a0 Date: 2016-01-24 Msg: Make DEBUG1 quieter.
+Bug-inducing commit(s)
+================================================
+e8e2c714078c55de9dfdfdb44ca487d264f0df39 2016-01-24
+------------------------------------------------
+
+Bug-fix Commit: 114c866fd567ba6c859a7aaa11b392ddb689a861 Date: 2016-01-25 Msg: Don't leak a local ref.
+Bug-inducing commit(s)
+================================================
+1eb3bd8d74b827f92b3e2cad06f8e010751446a0 2016-01-24
+------------------------------------------------
+
+Bug-fix Commit: 3031b776f626b13e6513fb7eaa557137bc2b9654 Date: 2016-01-26 Msg: Merge pull request #89 from tada/chore/master/debuglevels
+Bug-inducing commit(s)
+================================================
+aa95cc3ccf0f1696303ce61ddc5a06a6f217ea6c 2016-01-24
+------------------------------------------------
+
+Bug-fix Commit: 83e9cda11af23505e0d794de62d623750fab9969 Date: 2016-01-26 Msg: Fix two javadoc links.
+Bug-inducing commit(s)
+================================================
+e8e2c714078c55de9dfdfdb44ca487d264f0df39 2016-01-24
+------------------------------------------------
+
+Bug-fix Commit: 3031b776f626b13e6513fb7eaa557137bc2b9654 Date: 2016-01-26 Msg: Merge pull request #89 from tada/chore/master/debuglevels
+Bug-inducing commit(s)
+================================================
+1eb3bd8d74b827f92b3e2cad06f8e010751446a0 Date: 2016-01-24
+------------------------------------------------
+
+Bug-fix Commit: dbee67e3f8242f0aafdeb80688cdfaeddd738a44 Date: 2016-02-7 Msg: Now passes issue 92 test.
+Bug-inducing commit(s)
+================================================
+083742658cc92366a7cc5520943ab5878bd08e41 Date: 2016-01-23
+------------------------------------------------
+
+Bug-fix Commit: c7e758234095fcaa7bb64fc4c19019f3bceadeb7 Date: 2016-02-8 Msg: Call getSQLType earlier for errors' sake.
+Bug-inducing commit(s)
+================================================
+083742658cc92366a7cc5520943ab5878bd08e41 Date: 2016-01-23
+------------------------------------------------
+
+Bug-fix Commit: 63ccd3831f85833e3aa155456551613daef29082 Date: 2016-02-8 Msg: Invoke characterize methods earlier.
+Bug-inducing commit(s)
+================================================
+083742658cc92366a7cc5520943ab5878bd08e41 Date: 2016-01-23
+------------------------------------------------
+
+Bug-fix Commit: 63ccd3831f85833e3aa155456551613daef29082 Date: 2016-02-8 Msg: Invoke characterize methods earlier.
+Bug-inducing commit(s)
+================================================
+dbee67e3f8242f0aafdeb80688cdfaeddd738a44 Date: 2016-02-07
+------------------------------------------------
+
+Bug-fix Commit: da56d6df409aded3b30295ce2a1f54da1668943c Date: 2016-02-8 Msg: Catch compiler-caused classcast confusion.
+Bug-inducing commit(s)
+================================================
+dbee67e3f8242f0aafdeb80688cdfaeddd738a44 Date: 2016-02-07
+------------------------------------------------
+
+Bug-fix Commit: 124655b5c6e30efc98624c7ebda14750cf9315af Date: 2016-02-19 Msg: Accommodate Windowsish printf format differences.
+Bug-inducing commit(s)
+================================================
+e8e2c714078c55de9dfdfdb44ca487d264f0df39 Date: 2016-01-24
+------------------------------------------------
+
+Bug-fix Commit: 45c9a113cfc055ee71754bae25a388dce2e4e0cf Date: 2016-03-13 Msg: Rework SQLInputFromChunk using direct bytebuffers.
+Bug-inducing commit(s)
+================================================
+45c9a113cfc055ee71754bae25a388dce2e4e0cf Date: 2016-03-13
+------------------------------------------------
+
+Bug-fix Commit: 449a0c0923e9e7c2fbe1f5b6317b481dce29fe3f Date: 2016-03-18 Msg: Merge branch 'bug/REL1_5_STABLE/udtarch' into REL1_5_STABLE
+Bug-inducing commit(s)
+================================================
+754762e9af51ebad24ec751bec65190b6fe18d1a Date: 2016-02-15
+------------------------------------------------
+
+Bug-fix Commit: 460b25dea6aa753a9b00a01f3f38ad2a41f5a7e6 Date: 2016-03-18 Msg: Clunky but serviceable way to set byte order.
+Bug-inducing commit(s)
+================================================
+da80844fc51cc74ab62d0171fdda2a58fdcfe8a2 Date: 2016-03-13
+------------------------------------------------
+
+Bug-fix Commit: 449a0c0923e9e7c2fbe1f5b6317b481dce29fe3f Date: 2016-03-18 Msg: Merge branch 'bug/REL1_5_STABLE/udtarch' into REL1_5_STABLE
+Bug-inducing commit(s)
+================================================
+1eb3bd8d74b827f92b3e2cad06f8e010751446a0 Date: 2016-01-24
+------------------------------------------------
+
+Bug-fix Commit: a33184076c95524369a5144ea3c4aea39edfd8d8 Date: 2016-03-18 Msg: Check for base UDT if no other type mapping found.
+Bug-inducing commit(s)
+================================================
+1eb3bd8d74b827f92b3e2cad06f8e010751446a0 Date: 2016-01-24
+------------------------------------------------
+
+Bug-fix Commit: a33184076c95524369a5144ea3c4aea39edfd8d8 Date: 2016-03-18 Msg: Check for base UDT if no other type mapping found.
+Bug-inducing commit(s)
+================================================
+e8e2c714078c55de9dfdfdb44ca487d264f0df39 Date: 2016-01-24
+------------------------------------------------
+
+Bug-fix Commit: 37fbcf2268ef26042e64d853aae0fc103351e212 Date: 2016-03-19 Msg: Merge branch 'bug/REL1_5_STABLE/aseert' into REL1_5_STABLE
+Bug-inducing commit(s)
+================================================
+1eb3bd8d74b827f92b3e2cad06f8e010751446a0 Date: 2016-01-24
+------------------------------------------------
+
+Bug-fix Commit: 1df4d8a5d768b8b8466383bf789d98078f5115dc Date: 2016-03-19 Msg: Fix pre-9.3 bug introduced with MinGW fixes.
+Bug-inducing commit(s)
+================================================
+1eb3bd8d74b827f92b3e2cad06f8e010751446a0 Date: 2016-01-24
+------------------------------------------------
+
+Bug-fix Commit: 3d4fd37ede3a0b6032231e7fe94b536c227f6087 Date: 2016-03-27 Msg: Make create-extension-didn't message clearer.
+Bug-inducing commit(s)
+================================================
+754762e9af51ebad24ec751bec65190b6fe18d1a Date: 2016-02-15
+------------------------------------------------
+
+Bug-fix Commit: 9d250c41e1b70f1072a95f76947514bb03fa5b42 Date: 2016-03-31 Msg: No more standard charset lookups by name.
+Bug-inducing commit(s)
+================================================
+3d4fd37ede3a0b6032231e7fe94b536c227f6087 Date: 2016-03-27
+------------------------------------------------
+
+Bug-fix Commit: 9d250c41e1b70f1072a95f76947514bb03fa5b42 Date: 2016-03-31 Msg: No more standard charset lookups by name.
+Bug-inducing commit(s)
+================================================
+754762e9af51ebad24ec751bec65190b6fe18d1a Date: 2016-02-15
+------------------------------------------------
+
+Bug-fix Commit: 461fff29a2df03e8b721a667e9b01efec73b2666 Date: 2016-03-31 Msg: Merge branch 'chore/master/java7ify'
+Bug-inducing commit(s)
+================================================
+3d4fd37ede3a0b6032231e7fe94b536c227f6087 Date: 2016-03-27
+------------------------------------------------
+
+Bug-fix Commit: 9d250c41e1b70f1072a95f76947514bb03fa5b42 Date: 2016-03-31 Msg: No more standard charset lookups by name.
+Bug-inducing commit(s)
+================================================
+da80844fc51cc74ab62d0171fdda2a58fdcfe8a2 Date: 2016-03-13
+------------------------------------------------
+
+Bug-fix Commit: a4c29cf1efd87cf780c13df961cb095e8e8f795b Date: 2016-04-10 Msg: Lexicals.identifierFrom.
+Bug-inducing commit(s)
+================================================
+ebd314bb244ceba042859a4575536603b593f743 2016-03-31
+------------------------------------------------
+
+Bug-fix Commit: 4024bac74507ebb08b2825b24c9923a7b2b1480e Date: 2016-10-25 Msg: Handle widening of portalPos and demise of posOverflow.
+Bug-inducing commit(s)
+================================================
+c32911532cdb9243e15c61d36fc81da95d264fea Date: 2016-10-25
+------------------------------------------------
+
+Bug-fix Commit: 4cda8c0743f8d853b09d09f07928970caa3a2db4 Date: 2018-03-14 Msg: Adjust per earlier discussion.
+Bug-inducing commit(s)
+================================================
+aa5419e852e29444ae7a8300ec4513e6dc252b12 Date: 2018-03-12
+------------------------------------------------
+
+Bug-fix Commit: 1a58efbcb5d6cea8716922305ff7bd0be4562d40 Date: 2018-03-12 Msg: Fix #136 SPIConnection prepareStatement doesn't recognize all parameters
+Bug-inducing commit(s)
+================================================
+f3b6577a2f2878d7ea902a184ea731a90c1c7a20 Date: 2018-04-23
+------------------------------------------------
+
+Bug-fix Commit: 8adc01b8293b88d30d48666690ecf2e2d9a38519 Date: 2018-07-17 Msg: This fixes a problem but not the problem.
+Bug-inducing commit(s)
+================================================
+12ec013be94c3b256f2d2d184b3a2979932f83b7 Date: 2018-07-17
+------------------------------------------------
+
+Bug-fix Commit: 50e2e95a936f551067770c79ecec600c727f95aa Date: 2018-07-20 Msg: Don't repeat yourself with UDT mappings.
+Bug-inducing commit(s)
+================================================
+12ec013be94c3b256f2d2d184b3a2979932f83b7 Date: 2018-07-17
+------------------------------------------------
+
+Bug-fix Commit: 7a8897a282eccea36a096342e8074ca74186fd35 Date: 2018-01-29 Msg: Document (lack of) issue #134 regression test.
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: 05463dd2baa4f78c651f7c4b45533c8b27b80c2a Date: 2018-01-31 Msg: Merge pull request #135 from tada/bug/REL1_5_STABLE/issue134
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: 1a58efbcb5d6cea8716922305ff7bd0be4562d40 Date: 2018-03-13 Msg: Fix #136 SPIConnection prepareStatement doesn't recognize all parameters when SQL combines single and double quotes
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: ed0e4382a837e11ccf57be0cfa613f72b48c63f8 Date: 2018-03-18 Msg: Merge pull request #141 from pmichalek/bug/REL1_5_STABLE/issue136
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: 5347925908398a5af1a6985304ca327dedbaf6d5 Date: 2018-03-18 Msg: Merge pull request #142 from tada/bug/REL1_5_STABLE/issue142
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: 20bacb2e612205a9b0f5eb445cc562c59d0578f2 Date: 2018-01-31 Msg: Add mvn knobs for debug or optimize of native code.
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: e2b5e5eacb9efe53a7956bb39823b380aba47310 Date: 2018-01-31 Msg: Really: Apache Ant 1.10.0 needs Java 8. Avoid it.
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: eccfadecea65e3d23345073437440b443f185b22 Date: 2018-04-17 Msg: Merge branch 'bug/REL1_5_STABLE/issue146'.
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: 61cc0a9c5f02f81bf0a7fd6286ac834c2698efcf Date: 2018-04-16 Msg: Fix dangling pointer left as GUC boot value.
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: 27916e15603be5a482dce739bc3d9256fce9758f Date: 2018-06-01 Msg: Fix omitted link in install docs.
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: 1d023b8343f1dc3426520baea276cbcd234adc7a Date: 2018-05-01 Msg: Work around JRE bug in reporting entity boundaries.
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: c4e162a7f956413e5e2729c9e307570b32319b13 Date: 2018-06-26 Msg: Correct errors in Timestamp (issue #155).
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: 9626c246b127e8d9333bf4470bba4003799158eb Date: 2018-06-26 Msg: Merge branch bug/REL1_5_STABLE/issue155 into HEAD
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: 3447d0e05f1e6e911df934fc72a9d1f43955c7c7 Date: 2018-06-30 Msg: Merge pull request bug/REL1_5_STABLE/issue155
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: 8adc01b8293b88d30d48666690ecf2e2d9a38519 Date: 2018-07-16 Msg: This fixes a problem but not the problem.
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: a156eda5d0d80f447b8ecc99bca8ea2f68481d10 Date: 2018-07-19 Msg: Merge pull request bug/REL1_5_STABLE/issue157
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: 5433cd5582adf4e808a57f64392675bbfd61ffa3 Date: 2018-09-04 Msg: Avoid unnecessary jar_entry lookups.
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: 294fce997f265a682ae2a745c891bab4ce5d0d90 Date: 2018-09-08 Msg: Avoid trying to use type names in Type.c messages.
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: 8ab1149d308618aa408a1d462935183cc7a8aef6 Date: 2018-09-10 Msg: Fix javadoc nits in examples.
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: fc04b525c4c6cb9247ef5daaf326e5b469f2f6c5 Date: 2018-09-19 Msg: Merge pull request #180 from bug/REL1_5_STABLE/issue179
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: b72bd199f6e0a3fbfef15fbb67a3f3baecdb22ec Date: 2018-09-23 Msg: Add a ddr.reproducible option to SQL generator.
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: c0f71d021a3f326468d07f7b30085d7f291ffe92 Date: 2018-09-24 Msg: Remove workarounds that were formerly needed.
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: 08e0c93eaa7bb6b5f24d06496e81b217d4ac1edd Date: 2018-09-28 Msg: Merge pull request #183 from bug/REL1_5_STABLE/issue176
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: 146e2f38c096e3f6e704a2c88f55d5ceebf146f2 Date: 2018-09-28 Msg: Merge pull request #184 from bug/REL1_5_STABLE/issue178
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: 3b135090ffea4eab21894386d94cb29539ddb822 Date: 2018-09-28 Msg: No really, avoid #if among macro arguments.
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: 4960f81e90341cca292fe60554b31b1a0467b33d Date: 2018-10-01 Msg: Merge pull request #187 from bug/REL1_5_STABLE/issue182
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: b5479999fdecc1e160b149dfc471b834e19d7232 Date: 2018-10-01 Msg: Merge pull request #188 from bug/REL1_5_STABLE/issue185
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: be8b43c938a51c4f22bf9db28e7e17654b249824 Date: 2018-10-05 Msg: Detect failure to rename over existing file.
+Bug-inducing commit(s)
+================================================
+d2285d74ac4da8e803676845e24fbfd1f6c4c9d4 2004-01-07
+------------------------------------------------
+
+Bug-fix Commit: a173f37f5c69d561e0cae2dfd4c1e18327a4a228 Date: 2018-10-05 Msg: Merge branch 'JarXinPLJava' into bug/REL1_5_STABLE/issue189
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: 7c82063bcb88131d18e82ff505071b3dd27f94ef Date: 2018-10-06 Msg: Merge pull request #191 from bug/REL1_5_STABLE/issue177
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: 4247447f86f239dc4db8bc8ce9845895377bbfa0 Date: 2018-10-06 Msg: Add a test for issue #192.
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: 3a9dbbbf1d0b371fb92f9eca2dbf3a4a5a01a01b Date: 2018-10-06 Msg: Avoid timestamp in SetOfRecordTest.
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: 0bd9f61c737971536f1aa9162a0e06d55e073f63 Date: 2018-10-07 Msg: Merge pull request #194 from bug/REL1_5_STABLE/issue189
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: c808b192c39faa28392ed25e5b3db6d6f653263d Date: 2018-10-07 Msg: Merge pull request #193 from bug/REL1_5_STABLE/issue192
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: 37e23a8aec4db13810c410507d6d3b9db38b20ab Date: 2018-10-07 Msg: Merge pull request #196 from bug/REL1_5_STABLE/issue195
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: b0dd2211a3f63062e559cf3cd156e9a3e3a04024 Date: 2018-10-30 Msg: Repair java.sql.Date breakage from 72cbb15.
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: 64e62ef0cb6e68548ee5755258e3507c4857d4a6 Date: 2018-10-31 Msg: Regression test and documentation for issue #199.
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: d05378a50c2b0273436d85e26d440c34b4924866 Date: 2018-11-05 Msg: Merge pull request #201 from bug/REL1_5_STABLE/issue199
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: ca2ec4406b50f3a39ea8aafc8486fbf08b6ffc92 Date: 2019-02-17 Msg: Fix wrong #include
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: 7d57ffb02e0e6a3201379af1fe386cd79b9de44c Date: 2019-02-19 Msg: Merge pull request #205 from tada/bug/REL1_5_STABLE/SQLXMLnonUTF8
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: 0e48fa23810923425be9281f33dbbe5ef35478a9 Date: 2019-02-24 Msg: DualState-ify ErrorData.
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: 9ed8e335e2c233a75668a7ecd7c65a74e42d52c7 Date: 2019-06-28 Msg: Merge pull request #223 from bug/REL1_5_STABLE/issue221
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: 10129bd0e1c834ccb58bb033c1a6928e2a788e68 Date: 2019-08-11 Msg: Merge pull request #229 from bug/REL1_5_STABLE/issue228
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: a9a79b75dc7b31ede55cf49f3d47a98bf90219ea Date: 2019-08-11 Msg: Merge branch 'REL1_5_STABLE' into bug/REL1_5_STABLE/issue225
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: a47baed4baf45deb6d366184a3c67a02ebb6f553 Date: 2019-08-15 Msg: Handle foreign StreamSource with 'wrong' encoding
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: af743b4d6d1dd7546b9e01d8976d6199281fed85 Date: 2019-03-18 Msg: Disheartening to watch javac 8 get this wrong.
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: dc0f51d6280daec465a44f36b48643ae958a9fa1 Date: 2019-08-23 Msg: Work around Java 9+ XMLEventReader regression
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: 4882c818c596196cbc7bd4034950e3241cc38fc0 Date: 2019-08-23 Msg: Merge pull request #227 from bug/REL1_5_STABLE/issue225
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: 5e8d19fee1f21549747df450e697a7f28084719f Date: 2019-09-05 Msg: Fix unreported cast errors, XMLCAST nit
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: e4ed141977f881689dc28e20dce38a2f0c1cb90b Date: 2019-09-21 Msg: Merge pull request #234 from bug/REL1_5_STABLE/153nits
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: 7c6afaabe9f6d56e8fe552bafc26920dec260b5c Date: 2019-10-03 Msg: Fix more references to building with Java 8
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: b7ed9ed82e801b246246503485b3f36f61d1d337 Date: 2019-10-14 Msg: Fix array-index exception in Java 13 build
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: 6aef971f2eef4d1040dcd00f5da6cf38816a00d3 Date: 2019-10-14 Msg: Merge pull request #237 from bug/REL1_5_STABLE/issue235
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: 1f520582132965799887c29a22d1f95858e90a21 Date: 2019-10-14 Msg: Merge pull request #238 from bug/REL1_5_STABLE/issue236
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: a28db9f37dfd62eac7214e0281d02e9664ad51e2 Date: 2019-10-15 Msg: Fix a Javadoc build issue with Java 11+
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: 8f38fce675023866c1f7d6eb90608ae8d452312f Date: 2019-10-15 Msg: Merge pull request #240 from bug/REL1_5_STABLE/issue239
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: 44954b2f3a58279ebd3adec9f8a12af3820662a0 Date: 2019-10-18 Msg: Merge pull request #242 from bug/REL1_5_STABLE/issue241
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: 49ad5c2c30a0eeb5d0188cea7ffc2ca64ee08203 Date: 2019-10-20 Msg: Merge pull request #244 from bug/REL1_5_STABLE/issue228
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: 3c51fe4b39e5fff00b55fb076af7233f7a78502b Date: 2019-11-01 Msg: Swat JNI reference-management bugs
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: e2390ad1ac8b1e6515b27ec6f5851da4cafce908 Date: 2019-11-04 Msg: Merge pull request #247 from bug/REL1_5_STABLE/issue246
+Bug-inducing commit(s)
+================================================
+0a072dd07b29b1bf4a894deec68633f6c429d049 2016-02-01
+------------------------------------------------
+
+Bug-fix Commit: 69f5c305821f7e8559337d4eb474bfcc943c8543 Date: 2020-01-16 Msg: Unreported bugs in DDRProcessor
+Bug-inducing commit(s)
+================================================
+cf3a4245731c2f2d1f34c3513142ce474c43e44f 2020-03-03
+------------------------------------------------
+
+Bug-fix Commit: 813eac3bd657f3c0d6112935a04bf7126283bac3 Date: 2020-01-17 Msg: Correct OpenJ9 workaround for pre-Java-9
+Bug-inducing commit(s)
+================================================
+c319044465065df5c404abcc0c0ccb8b5cee6d75 2020-01-13
+------------------------------------------------
+
+Bug-fix Commit: 2851fc80df577eb6e1eed11da401710ddb69ec9b Date: 2020-01-17 Msg: Functional interfaces handling checked exceptions.
+Bug-inducing commit(s)
+================================================
+3437efd671b18468aadf576b74268b3e790341eb 2020-01-19
+------------------------------------------------
+
+Bug-fix Commit: f9f795f8ee5671bbeb0574d69f29527bc6e0004d Date: 2019-10-04 Msg: Disheartening to watch javac 8 get this wrong.
+Bug-inducing commit(s)
+================================================
+ 
+------------------------------------------------
+
+Bug-fix Commit: c763cee32f2da55e3dc0a924c4973d7f30cdc56e Date: 2020-01-12 Msg: The cause: javac 10 and 11 are broken
+Bug-inducing commit(s)
+================================================
+2c6d5a8f9780ad8bdd7bd7c8fbc9324eb72e6b24 2019-03-24
+------------------------------------------------
+
+Bug-fix Commit: 9e84d5ee48f759d004cb719402b6b9892f44dab9 Date: 2020-01-15 Msg: Rebased, which brought issue #192 back, re-fixed.
+Bug-inducing commit(s)
+================================================
+3bd02ce521d983e183b50aba269298bb9a8b74cf 2020-01-15
+------------------------------------------------
+
+Bug-fix Commit: 5fdf1af79095268fd652c6788e51c1c721cbb206 Date: 2020-01-25 Msg: Clear the loader cache if deployment fails
+Bug-inducing commit(s)
+================================================
+ 
+------------------------------------------------
+
+Bug-fix Commit: e48492853c16bd479891abf820755c0b7eb9e2ac Date: 2020-02-09 Msg: Fix javadoc comments overlooked in 97010eb
+Bug-inducing commit(s)
+================================================
+ 
+------------------------------------------------
+
+Bug-fix Commit: dffc1636317c80ddb9a949b9a70108aa967e27b3 Date: 2020-02-12 Msg: Don't leak rejected Function into TopMemoryContext
+Bug-inducing commit(s)
+================================================
+2d4c50760387325a524a328c7ea4d76e7b6ba503 2020-02-21
+------------------------------------------------
+
+Bug-fix Commit: 45f74cea3587d9645a0066d1acb61aa492ac5782 Date: 2020-02-22 Msg: DBType smarter about array vs other suffix
+Bug-inducing commit(s)
+================================================
+b9480d0adac4a0cdf270d8654477f7ade1752e50 2020-02-10
+------------------------------------------------
+
+Bug-fix Commit: 8ab5548640a218b5a30525d4acad730820cab5c3 Date: 2020-02-09 Msg: An unchecked exception carrier
+Bug-inducing commit(s)
+================================================
+b9480d0adac4a0cdf270d8654477f7ade1752e50 2020-02-10
+------------------------------------------------
+
+Bug-fix Commit: 216f340261b7406482f9ef58c39a1d03eaa8a111 Date: 2020-03-07 Msg: Always produce a fixed-arity method handle
+Bug-inducing commit(s)
+================================================
+2d4c50760387325a524a328c7ea4d76e7b6ba503 2020-02-21
+------------------------------------------------
+
+Bug-fix Commit: 993acdd2acb66487ce6394cda95476660c08b88d Date: 2020-05-10 Msg: Merge pull request #259 from bug/master/variadic
+Bug-inducing commit(s)
+================================================
+ 
+------------------------------------------------
+
+Bug-fix Commit: 395ac0d82cdd4da695847454dad08726df89dfc6 Date: 2020-05-24 Msg: Another harrowing maven-javadoc-plugin workaround
+Bug-inducing commit(s)
+================================================
+bfbe4c25d940f9ee55e9a6064cf877a29ec8b3f5 2020-05-19
+------------------------------------------------
+
+Bug-fix Commit: 04828db9d8c1f3135516654871a395622104c03b Date: 2020-05-30 Msg: Merge pull request #271 from bug/master/mjavadoc
+Bug-inducing commit(s)
+================================================
+ 
+------------------------------------------------
+
+Bug-fix Commit: 7aa9554d2e3a04f00b5bc38de7b3f186989f7d97 Date: 2020-05-31 Msg: Fix a stored non-global-JNI-reference bug
+Bug-inducing commit(s)
+================================================
+6a83db454198d6674a36e7b7502fb53c74ec234f 2020-05-31
+------------------------------------------------
+
+Bug-fix Commit: 46b17ac6832c635b03681a0edf72aa5e8c1daddb Date: 2020-06-01 Msg: Merge pull request #275 from bug/master/issue274
+Bug-inducing commit(s)
+================================================
+6a83db454198d6674a36e7b7502fb53c74ec234f 2020-05-31
+------------------------------------------------
+
+Bug-fix Commit: 515e0d57258ec4ca7f9b1e535ae483664f9ed474 Date: 2020-06-21 Msg: Fix function/prototype mismatch
+Bug-inducing commit(s)
+================================================
+ 
+------------------------------------------------
+
+Bug-fix Commit: b510602978a133cc0f96dfa09323a388bd19974d Date: 2020-06-22 Msg: Merge pull request #284 from bug/master/issue282
+Bug-inducing commit(s)
+================================================
+Error or no bug inducing commit retrieved
+------------------------------------------------
+

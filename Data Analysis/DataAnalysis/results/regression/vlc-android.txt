@@ -1,0 +1,243 @@
+For System: vlc-android
+====================================================
+For Smell: excessiveInterlangCommunication
+------------------------------------------------
+System, release, row_with_smell, stat, p-value
+vlc-android, vlc-android-3.0.0, 5, 25.0, 0.0119
+vlc-android, vlc-android-3.0.11, 5, 25.0, 0.0119
+vlc-android, vlc-android-3.0.13, 1, nan, nan
+vlc-android, 3.0.9, 0, nan, nan
+vlc-android, vlc-android-3.0.92, 1, nan, nan
+vlc-android, vlc-android-3.0.96, 1, nan, nan
+vlc-android, vlc-android-3.1.0, 5, 25.0, 0.0119
+vlc-android, vlc-android-3.1.2, 5, 25.0, 0.0119
+vlc-android, vlc-android-3.1.6, 5, 25.0, 0.0119
+vlc-android, vlc-android-master, 5, 25.0, 0.0119
+------------------------------------------------
+6/10 (60.0%) release with significant relationship
+        
+For Smell: Toomuchclustring
+------------------------------------------------
+System, release, row_with_smell, stat, p-value
+vlc-android, vlc-android-3.0.0, 5, 25.0, 0.0097
+vlc-android, vlc-android-3.0.11, 5, 25.0, 0.0097
+vlc-android, vlc-android-3.0.13, 2, nan, nan
+vlc-android, 3.0.9, 0, nan, nan
+vlc-android, vlc-android-3.0.92, 1, nan, nan
+vlc-android, vlc-android-3.0.96, 1, nan, nan
+vlc-android, vlc-android-3.1.0, 7, 49.0, 0.0014
+vlc-android, vlc-android-3.1.2, 7, 49.0, 0.0014
+vlc-android, vlc-android-3.1.6, 7, 49.0, 0.0014
+vlc-android, vlc-android-master, 8, 64.0, 0.0005
+------------------------------------------------
+6/10 (60.0%) release with significant relationship
+        
+For Smell: ToomuchScattering
+------------------------------------------------
+System, release, row_with_smell, stat, p-value
+vlc-android, vlc-android-3.0.0, 10, 100.0, 0.0001
+vlc-android, vlc-android-3.0.11, 10, 100.0, 0.0001
+vlc-android, vlc-android-3.0.13, 4, nan, nan
+vlc-android, 3.0.9, 0, nan, nan
+vlc-android, vlc-android-3.0.92, 5, 25.0, 0.0065
+vlc-android, vlc-android-3.0.96, 5, 25.0, 0.0065
+vlc-android, vlc-android-3.1.0, 7, 49.0, 0.001
+vlc-android, vlc-android-3.1.2, 7, 49.0, 0.001
+vlc-android, vlc-android-3.1.6, 7, 49.0, 0.001
+vlc-android, vlc-android-master, 5, 25.0, 0.0071
+------------------------------------------------
+8/10 (80.0%) release with significant relationship
+        
+For Smell: UnusedMethodDeclaration
+------------------------------------------------
+System, release, row_with_smell, stat, p-value
+vlc-android, vlc-android-3.0.0, 7, 49.0, 0.0021
+vlc-android, vlc-android-3.0.11, 7, 49.0, 0.0021
+vlc-android, vlc-android-3.0.13, 7, 48.5, 0.0026
+vlc-android, 3.0.9, 0, nan, nan
+vlc-android, vlc-android-3.0.92, 7, 49.0, 0.0021
+vlc-android, vlc-android-3.0.96, 7, 49.0, 0.0021
+vlc-android, vlc-android-3.1.0, 7, 49.0, 0.0021
+vlc-android, vlc-android-3.1.2, 7, 49.0, 0.0021
+vlc-android, vlc-android-3.1.6, 7, 49.0, 0.0021
+vlc-android, vlc-android-master, 7, 49.0, 0.0021
+------------------------------------------------
+9/10 (90.0%) release with significant relationship
+        
+For Smell: UnusedMethodImplementation
+------------------------------------------------
+System, release, row_with_smell, stat, p-value
+vlc-android, vlc-android-3.0.0, 2, nan, nan
+vlc-android, vlc-android-3.0.11, 2, nan, nan
+vlc-android, vlc-android-3.0.13, 2, nan, nan
+vlc-android, 3.0.9, 0, nan, nan
+vlc-android, vlc-android-3.0.92, 2, nan, nan
+vlc-android, vlc-android-3.0.96, 2, nan, nan
+vlc-android, vlc-android-3.1.0, 2, nan, nan
+vlc-android, vlc-android-3.1.2, 2, nan, nan
+vlc-android, vlc-android-3.1.6, 2, nan, nan
+vlc-android, vlc-android-master, 2, nan, nan
+------------------------------------------------
+0/10 (0.0%) release with significant relationship
+        
+For Smell: UnusedParameter
+------------------------------------------------
+System, release, row_with_smell, stat, p-value
+vlc-android, vlc-android-3.0.0, 16, 256.0, 0.0
+vlc-android, vlc-android-3.0.11, 16, 256.0, 0.0
+vlc-android, vlc-android-3.0.13, 14, 196.0, 0.0
+vlc-android, 3.0.9, 0, nan, nan
+vlc-android, vlc-android-3.0.92, 16, 256.0, 0.0
+vlc-android, vlc-android-3.0.96, 16, 256.0, 0.0
+vlc-android, vlc-android-3.1.0, 18, 324.0, 0.0
+vlc-android, vlc-android-3.1.2, 19, 361.0, 0.0
+vlc-android, vlc-android-3.1.6, 19, 361.0, 0.0
+vlc-android, vlc-android-master, 24, 576.0, 0.0
+------------------------------------------------
+0/10 (0.0%) release with significant relationship
+        
+For Smell: NotHandlingExceptions
+------------------------------------------------
+System, release, row_with_smell, stat, p-value
+vlc-android, vlc-android-3.0.0, 1, nan, nan
+vlc-android, vlc-android-3.0.11, 1, nan, nan
+vlc-android, vlc-android-3.0.13, 1, nan, nan
+vlc-android, 3.0.9, 0, nan, nan
+vlc-android, vlc-android-3.0.92, 1, nan, nan
+vlc-android, vlc-android-3.0.96, 1, nan, nan
+vlc-android, vlc-android-3.1.0, 1, nan, nan
+vlc-android, vlc-android-3.1.2, 1, nan, nan
+vlc-android, vlc-android-3.1.6, 1, nan, nan
+vlc-android, vlc-android-master, 1, nan, nan
+------------------------------------------------
+0/10 (0.0%) release with significant relationship
+        
+For Smell: NotSecuringLibraries
+------------------------------------------------
+System, release, row_with_smell, stat, p-value
+vlc-android, vlc-android-3.0.0, 1, nan, nan
+vlc-android, vlc-android-3.0.11, 1, nan, nan
+vlc-android, vlc-android-3.0.13, 0, nan, nan
+vlc-android, 3.0.9, 0, nan, nan
+vlc-android, vlc-android-3.0.92, 0, nan, nan
+vlc-android, vlc-android-3.0.96, 0, nan, nan
+vlc-android, vlc-android-3.1.0, 2, nan, nan
+vlc-android, vlc-android-3.1.2, 2, nan, nan
+vlc-android, vlc-android-3.1.6, 2, nan, nan
+vlc-android, vlc-android-master, 2, nan, nan
+------------------------------------------------
+0/10 (0.0%) release with significant relationship
+        
+For Smell: HardCodingLibraries
+------------------------------------------------
+System, release, row_with_smell, stat, p-value
+vlc-android, vlc-android-3.0.0, 0, nan, nan
+vlc-android, vlc-android-3.0.11, 0, nan, nan
+vlc-android, vlc-android-3.0.13, 0, nan, nan
+vlc-android, 3.0.9, 0, nan, nan
+vlc-android, vlc-android-3.0.92, 0, nan, nan
+vlc-android, vlc-android-3.0.96, 0, nan, nan
+vlc-android, vlc-android-3.1.0, 0, nan, nan
+vlc-android, vlc-android-3.1.2, 0, nan, nan
+vlc-android, vlc-android-3.1.6, 0, nan, nan
+vlc-android, vlc-android-master, 0, nan, nan
+------------------------------------------------
+0/10 (0.0%) release with significant relationship
+        
+For Smell: NotUsingRelativePath
+------------------------------------------------
+System, release, row_with_smell, stat, p-value
+vlc-android, vlc-android-3.0.0, 1, nan, nan
+vlc-android, vlc-android-3.0.11, 1, nan, nan
+vlc-android, vlc-android-3.0.13, 1, nan, nan
+vlc-android, 3.0.9, 0, nan, nan
+vlc-android, vlc-android-3.0.92, 2, nan, nan
+vlc-android, vlc-android-3.0.96, 2, nan, nan
+vlc-android, vlc-android-3.1.0, 2, nan, nan
+vlc-android, vlc-android-3.1.2, 2, nan, nan
+vlc-android, vlc-android-3.1.6, 2, nan, nan
+vlc-android, vlc-android-master, 2, nan, nan
+------------------------------------------------
+0/10 (0.0%) release with significant relationship
+        
+For Smell: MemoryManagementMismatch
+------------------------------------------------
+System, release, row_with_smell, stat, p-value
+vlc-android, vlc-android-3.0.0, 0, nan, nan
+vlc-android, vlc-android-3.0.11, 0, nan, nan
+vlc-android, vlc-android-3.0.13, 0, nan, nan
+vlc-android, 3.0.9, 0, nan, nan
+vlc-android, vlc-android-3.0.92, 0, nan, nan
+vlc-android, vlc-android-3.0.96, 0, nan, nan
+vlc-android, vlc-android-3.1.0, 0, nan, nan
+vlc-android, vlc-android-3.1.2, 0, nan, nan
+vlc-android, vlc-android-3.1.6, 0, nan, nan
+vlc-android, vlc-android-master, 0, nan, nan
+------------------------------------------------
+0/10 (0.0%) release with significant relationship
+        
+For Smell: LocalReferencesAbuse
+------------------------------------------------
+System, release, row_with_smell, stat, p-value
+vlc-android, vlc-android-3.0.0, 1, nan, nan
+vlc-android, vlc-android-3.0.11, 1, nan, nan
+vlc-android, vlc-android-3.0.13, 1, nan, nan
+vlc-android, 3.0.9, 0, nan, nan
+vlc-android, vlc-android-3.0.92, 1, nan, nan
+vlc-android, vlc-android-3.0.96, 1, nan, nan
+vlc-android, vlc-android-3.1.0, 1, nan, nan
+vlc-android, vlc-android-3.1.2, 1, nan, nan
+vlc-android, vlc-android-3.1.6, 1, nan, nan
+vlc-android, vlc-android-master, 1, nan, nan
+------------------------------------------------
+0/10 (0.0%) release with significant relationship
+        
+For Smell: CLOL
+------------------------------------------------
+System, release, row_with_smell, stat, p-value
+vlc-android, vlc-android-3.0.0, 0, nan, nan
+vlc-android, vlc-android-3.0.11, 0, nan, nan
+vlc-android, vlc-android-3.0.13, 7, 49.0, 0.0011
+vlc-android, 3.0.9, 0, nan, nan
+vlc-android, vlc-android-3.0.92, 0, nan, nan
+vlc-android, vlc-android-3.0.96, 0, nan, nan
+vlc-android, vlc-android-3.1.0, 1, nan, nan
+vlc-android, vlc-android-3.1.2, 1, nan, nan
+vlc-android, vlc-android-3.1.6, 0, nan, nan
+vlc-android, vlc-android-master, 0, nan, nan
+------------------------------------------------
+1/10 (10.0%) release with significant relationship
+        
+For Smell: PrevFixing
+------------------------------------------------
+System, release, row_with_smell, stat, p-value
+vlc-android, vlc-android-3.0.0, 0, nan, nan
+vlc-android, vlc-android-3.0.11, 0, nan, nan
+vlc-android, vlc-android-3.0.13, 0, nan, nan
+vlc-android, 3.0.9, 0, nan, nan
+vlc-android, vlc-android-3.0.92, 0, nan, nan
+vlc-android, vlc-android-3.0.96, 0, nan, nan
+vlc-android, vlc-android-3.1.0, 0, nan, nan
+vlc-android, vlc-android-3.1.2, 0, nan, nan
+vlc-android, vlc-android-3.1.6, 0, nan, nan
+vlc-android, vlc-android-master, 0, nan, nan
+------------------------------------------------
+0/10 (0.0%) release with significant relationship
+        
+For Smell: CodeChurn
+------------------------------------------------
+System, release, row_with_smell, stat, p-value
+vlc-android, vlc-android-3.0.0, 0, nan, nan
+vlc-android, vlc-android-3.0.11, 0, nan, nan
+vlc-android, vlc-android-3.0.13, 7, 49.0, 0.0011
+vlc-android, 3.0.9, 0, nan, nan
+vlc-android, vlc-android-3.0.92, 0, nan, nan
+vlc-android, vlc-android-3.0.96, 0, nan, nan
+vlc-android, vlc-android-3.1.0, 1, nan, nan
+vlc-android, vlc-android-3.1.2, 1, nan, nan
+vlc-android, vlc-android-3.1.6, 0, nan, nan
+vlc-android, vlc-android-master, 0, nan, nan
+------------------------------------------------
+1/10 (10.0%) release with significant relationship
+        
+====================================================

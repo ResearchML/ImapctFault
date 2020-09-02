@@ -1,0 +1,90 @@
+Id_Table,ID,Name,Variable,Method,Class,Package,File,File Name,System,Version,Release
+1,CS1,UnusedDeclaration,,strpbrk,BytePointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/BytePointer.java,BytePointer.java,javacpp,javacpp-1.2,5/15/2016
+2,CS2,UnusedDeclaration,,get,PointerPointer<P extends Pointer>,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/PointerPointer.java,PointerPointer.java,javacpp,javacpp-1.2,5/15/2016
+3,CS3,UnusedDeclaration,,allocate,Pointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/Pointer.java,Pointer.java,javacpp,javacpp-1.2,5/15/2016
+4,CS4,UnusedDeclaration,,fetchSharedData,AdapterTest,org.bytedeco.javacpp,javacpp-1.2/src/test/java/org/bytedeco/javacpp/AdapterTest.java,AdapterTest.java,javacpp,javacpp-1.2,5/15/2016
+5,CS5,UnusedDeclaration,,strncat,BytePointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/BytePointer.java,BytePointer.java,javacpp,javacpp-1.2,5/15/2016
+6,CS6,UnusedDeclaration,,strchr,BytePointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/BytePointer.java,BytePointer.java,javacpp,javacpp-1.2,5/15/2016
+7,CS7,UnusedDeclaration,,storeSharedData,AdapterTest,org.bytedeco.javacpp,javacpp-1.2/src/test/java/org/bytedeco/javacpp/AdapterTest.java,AdapterTest.java,javacpp,javacpp-1.2,5/15/2016
+8,CS8,UnusedDeclaration,,strtok,BytePointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/BytePointer.java,BytePointer.java,javacpp,javacpp-1.2,5/15/2016
+9,CS9,UnusedDeclaration,,strspn,BytePointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/BytePointer.java,BytePointer.java,javacpp,javacpp-1.2,5/15/2016
+10,CS10,UnusedDeclaration,,strstr,BytePointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/BytePointer.java,BytePointer.java,javacpp,javacpp-1.2,5/15/2016
+11,CS11,UnusedDeclaration,,strcmp,BytePointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/BytePointer.java,BytePointer.java,javacpp,javacpp-1.2,5/15/2016
+12,CS12,UnusedDeclaration,,data,AdapterTest,org.bytedeco.javacpp,javacpp-1.2/src/test/java/org/bytedeco/javacpp/AdapterTest.java,AdapterTest.java,javacpp,javacpp-1.2,5/15/2016
+13,CS13,UnusedDeclaration,,testStdString,AdapterTest,org.bytedeco.javacpp,javacpp-1.2/src/test/java/org/bytedeco/javacpp/AdapterTest.java,AdapterTest.java,javacpp,javacpp-1.2,5/15/2016
+14,CS14,UnusedDeclaration,,testStdVectorByVal,AdapterTest,org.bytedeco.javacpp,javacpp-1.2/src/test/java/org/bytedeco/javacpp/AdapterTest.java,AdapterTest.java,javacpp,javacpp-1.2,5/15/2016
+15,CS15,UnusedDeclaration,,memset,Pointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/Pointer.java,Pointer.java,javacpp,javacpp-1.2,5/15/2016
+16,CS16,UnusedDeclaration,,destructorCount,AdapterTest,org.bytedeco.javacpp,javacpp-1.2/src/test/java/org/bytedeco/javacpp/AdapterTest.java,AdapterTest.java,javacpp,javacpp-1.2,5/15/2016
+17,CS17,UnusedDeclaration,,strncmp,BytePointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/BytePointer.java,BytePointer.java,javacpp,javacpp-1.2,5/15/2016
+18,CS18,UnusedDeclaration,,memcpy,Pointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/Pointer.java,Pointer.java,javacpp,javacpp-1.2,5/15/2016
+19,CS19,UnusedDeclaration,,memmove,Pointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/Pointer.java,Pointer.java,javacpp,javacpp-1.2,5/15/2016
+20,CS20,UnusedDeclaration,,strerror,BytePointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/BytePointer.java,BytePointer.java,javacpp,javacpp-1.2,5/15/2016
+21,CS21,UnusedDeclaration,,strrchr,BytePointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/BytePointer.java,BytePointer.java,javacpp,javacpp-1.2,5/15/2016
+22,CS22,UnusedDeclaration,,put,PointerPointer<P extends Pointer>,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/PointerPointer.java,PointerPointer.java,javacpp,javacpp-1.2,5/15/2016
+23,CS23,UnusedDeclaration,,constructorCount,AdapterTest,org.bytedeco.javacpp,javacpp-1.2/src/test/java/org/bytedeco/javacpp/AdapterTest.java,AdapterTest.java,javacpp,javacpp-1.2,5/15/2016
+24,CS24,UnusedDeclaration,,testStdVectorByPtr,AdapterTest,org.bytedeco.javacpp,javacpp-1.2/src/test/java/org/bytedeco/javacpp/AdapterTest.java,AdapterTest.java,javacpp,javacpp-1.2,5/15/2016
+25,CS25,UnusedDeclaration,,allocateArray,PointerPointer<P extends Pointer>,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/PointerPointer.java,PointerPointer.java,javacpp,javacpp-1.2,5/15/2016
+26,CS26,UnusedDeclaration,,testStdVectorByRef,AdapterTest,org.bytedeco.javacpp,javacpp-1.2/src/test/java/org/bytedeco/javacpp/AdapterTest.java,AdapterTest.java,javacpp,javacpp-1.2,5/15/2016
+27,CS27,UnusedDeclaration,,strlen,BytePointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/BytePointer.java,BytePointer.java,javacpp,javacpp-1.2,5/15/2016
+28,CS28,UnusedDeclaration,,strcpy,BytePointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/BytePointer.java,BytePointer.java,javacpp,javacpp-1.2,5/15/2016
+29,CS29,UnusedDeclaration,,strcoll,BytePointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/BytePointer.java,BytePointer.java,javacpp,javacpp-1.2,5/15/2016
+30,CS30,UnusedDeclaration,,strxfrm,BytePointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/BytePointer.java,BytePointer.java,javacpp,javacpp-1.2,5/15/2016
+31,CS31,UnusedDeclaration,,deallocate,Pointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/Pointer.java,Pointer.java,javacpp,javacpp-1.2,5/15/2016
+32,CS32,UnusedDeclaration,,asDirectBuffer,Pointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/Pointer.java,Pointer.java,javacpp,javacpp-1.2,5/15/2016
+33,CS33,UnusedDeclaration,,createSharedData,AdapterTest,org.bytedeco.javacpp,javacpp-1.2/src/test/java/org/bytedeco/javacpp/AdapterTest.java,AdapterTest.java,javacpp,javacpp-1.2,5/15/2016
+34,CS34,UnusedDeclaration,,memchr,Pointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/Pointer.java,Pointer.java,javacpp,javacpp-1.2,5/15/2016
+35,CS35,UnusedDeclaration,,memcmp,Pointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/Pointer.java,Pointer.java,javacpp,javacpp-1.2,5/15/2016
+36,CS36,UnusedDeclaration,,strncpy,BytePointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/BytePointer.java,BytePointer.java,javacpp,javacpp-1.2,5/15/2016
+37,CS37,UnusedDeclaration,,strcspn,BytePointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/BytePointer.java,BytePointer.java,javacpp,javacpp-1.2,5/15/2016
+38,CS38,UnusedDeclaration,,strcat,BytePointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/BytePointer.java,BytePointer.java,javacpp,javacpp-1.2,5/15/2016
+39,CS39,NotSecuringLibraries,filename,loadLibrary,Loader,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/Loader.java,Loader.java,javacpp,javacpp-1.2,5/15/2016
+40,CS40,NotSecuringLibraries,libname,loadLibrary,Loader,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/Loader.java,Loader.java,javacpp,javacpp-1.2,5/15/2016
+41,AP41,ExcessiveInterLanguageCommunication,,get,PointerPointer<P extends Pointer>,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/PointerPointer.java,,javacpp,javacpp-1.2,5/15/2016
+42,AP42,ExcessiveInterLanguageCommunication,,allocateArray,LongPointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/LongPointer.java,,javacpp,javacpp-1.2,5/15/2016
+43,AP43,ExcessiveInterLanguageCommunication,,fetchSharedData,AdapterTest,org.bytedeco.javacpp,javacpp-1.2/src/test/java/org/bytedeco/javacpp/AdapterTest.java,,javacpp,javacpp-1.2,5/15/2016
+44,AP44,ExcessiveInterLanguageCommunication,,put,LongPointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/LongPointer.java,,javacpp,javacpp-1.2,5/15/2016
+45,AP45,ExcessiveInterLanguageCommunication,,storeSharedData,AdapterTest,org.bytedeco.javacpp,javacpp-1.2/src/test/java/org/bytedeco/javacpp/AdapterTest.java,,javacpp,javacpp-1.2,5/15/2016
+46,AP46,ExcessiveInterLanguageCommunication,,put,FloatPointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/FloatPointer.java,,javacpp,javacpp-1.2,5/15/2016
+47,AP47,ExcessiveInterLanguageCommunication,,allocateArray,IntPointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/IntPointer.java,,javacpp,javacpp-1.2,5/15/2016
+48,AP48,ExcessiveInterLanguageCommunication,,allocateArray,FloatPointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/FloatPointer.java,,javacpp,javacpp-1.2,5/15/2016
+49,AP49,ExcessiveInterLanguageCommunication,,data,AdapterTest,org.bytedeco.javacpp,javacpp-1.2/src/test/java/org/bytedeco/javacpp/AdapterTest.java,,javacpp,javacpp-1.2,5/15/2016
+50,AP50,ExcessiveInterLanguageCommunication,,get,BytePointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/BytePointer.java,,javacpp,javacpp-1.2,5/15/2016
+51,AP51,ExcessiveInterLanguageCommunication,,put,ShortPointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/ShortPointer.java,,javacpp,javacpp-1.2,5/15/2016
+52,AP52,ExcessiveInterLanguageCommunication,,allocateArray,CharPointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/CharPointer.java,,javacpp,javacpp-1.2,5/15/2016
+53,AP53,ExcessiveInterLanguageCommunication,,testStdString,AdapterTest,org.bytedeco.javacpp,javacpp-1.2/src/test/java/org/bytedeco/javacpp/AdapterTest.java,,javacpp,javacpp-1.2,5/15/2016
+54,AP54,ExcessiveInterLanguageCommunication,,allocate,AdapterTest,org.bytedeco.javacpp,javacpp-1.2/src/test/java/org/bytedeco/javacpp/AdapterTest.java,,javacpp,javacpp-1.2,5/15/2016
+55,AP55,ExcessiveInterLanguageCommunication,,put,IntPointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/IntPointer.java,,javacpp,javacpp-1.2,5/15/2016
+56,AP56,ExcessiveInterLanguageCommunication,,testStdVectorByVal,AdapterTest,org.bytedeco.javacpp,javacpp-1.2/src/test/java/org/bytedeco/javacpp/AdapterTest.java,,javacpp,javacpp-1.2,5/15/2016
+57,AP57,ExcessiveInterLanguageCommunication,,destructorCount,AdapterTest,org.bytedeco.javacpp,javacpp-1.2/src/test/java/org/bytedeco/javacpp/AdapterTest.java,,javacpp,javacpp-1.2,5/15/2016
+58,AP58,ExcessiveInterLanguageCommunication,,get,CharPointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/CharPointer.java,,javacpp,javacpp-1.2,5/15/2016
+59,AP59,ExcessiveInterLanguageCommunication,,put,BytePointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/BytePointer.java,,javacpp,javacpp-1.2,5/15/2016
+60,AP60,ExcessiveInterLanguageCommunication,,put,DoublePointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/DoublePointer.java,,javacpp,javacpp-1.2,5/15/2016
+61,AP61,ExcessiveInterLanguageCommunication,,constructorCount,AdapterTest,org.bytedeco.javacpp,javacpp-1.2/src/test/java/org/bytedeco/javacpp/AdapterTest.java,,javacpp,javacpp-1.2,5/15/2016
+62,AP62,ExcessiveInterLanguageCommunication,,put,PointerPointer<P extends Pointer>,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/PointerPointer.java,,javacpp,javacpp-1.2,5/15/2016
+63,AP63,ExcessiveInterLanguageCommunication,,testStdVectorByPtr,AdapterTest,org.bytedeco.javacpp,javacpp-1.2/src/test/java/org/bytedeco/javacpp/AdapterTest.java,,javacpp,javacpp-1.2,5/15/2016
+64,AP64,ExcessiveInterLanguageCommunication,,allocateArray,PointerPointer<P extends Pointer>,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/PointerPointer.java,,javacpp,javacpp-1.2,5/15/2016
+65,AP65,ExcessiveInterLanguageCommunication,,testStdVectorByRef,AdapterTest,org.bytedeco.javacpp,javacpp-1.2/src/test/java/org/bytedeco/javacpp/AdapterTest.java,,javacpp,javacpp-1.2,5/15/2016
+66,AP66,ExcessiveInterLanguageCommunication,,strlen,BytePointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/BytePointer.java,,javacpp,javacpp-1.2,5/15/2016
+67,AP67,ExcessiveInterLanguageCommunication,,testShortString,AdapterTest,org.bytedeco.javacpp,javacpp-1.2/src/test/java/org/bytedeco/javacpp/AdapterTest.java,,javacpp,javacpp-1.2,5/15/2016
+68,AP68,ExcessiveInterLanguageCommunication,,deallocate,Pointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/Pointer.java,,javacpp,javacpp-1.2,5/15/2016
+69,AP69,ExcessiveInterLanguageCommunication,,testCharString,AdapterTest,org.bytedeco.javacpp,javacpp-1.2/src/test/java/org/bytedeco/javacpp/AdapterTest.java,,javacpp,javacpp-1.2,5/15/2016
+70,AP70,ExcessiveInterLanguageCommunication,,testIntString,AdapterTest,org.bytedeco.javacpp,javacpp-1.2/src/test/java/org/bytedeco/javacpp/AdapterTest.java,,javacpp,javacpp-1.2,5/15/2016
+71,AP71,ExcessiveInterLanguageCommunication,,allocateArray,ShortPointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/ShortPointer.java,,javacpp,javacpp-1.2,5/15/2016
+72,AP72,ExcessiveInterLanguageCommunication,,createSharedData,AdapterTest,org.bytedeco.javacpp,javacpp-1.2/src/test/java/org/bytedeco/javacpp/AdapterTest.java,,javacpp,javacpp-1.2,5/15/2016
+73,AP73,ExcessiveInterLanguageCommunication,,allocateArray,BytePointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/BytePointer.java,,javacpp,javacpp-1.2,5/15/2016
+74,AP74,ExcessiveInterLanguageCommunication,,allocateArray,DoublePointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/DoublePointer.java,,javacpp,javacpp-1.2,5/15/2016
+75,AP75,ExcessiveInterLanguageCommunication,,put,CharPointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/CharPointer.java,,javacpp,javacpp-1.2,5/15/2016
+76,AP76,ExcessiveInterLanguageCommunication,,get,IntPointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/IntPointer.java,,javacpp,javacpp-1.2,5/15/2016
+77,AP77,TooMuchClustering,,,AdapterTest,org.bytedeco.javacpp,javacpp-1.2/src/test/java/org/bytedeco/javacpp/AdapterTest.java,,javacpp,javacpp-1.2,5/15/2016
+78,AP78,TooMuchClustering,,,Pointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/Pointer.java,,javacpp,javacpp-1.2,5/15/2016
+79,AP79,TooMuchClustering,,,BytePointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/BytePointer.java,,javacpp,javacpp-1.2,5/15/2016
+80,AP80,TooMuchScattering,,,CharPointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/CharPointer.java,,javacpp,javacpp-1.2,5/15/2016
+81,AP81,TooMuchScattering,,,LongPointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/LongPointer.java,,javacpp,javacpp-1.2,5/15/2016
+82,AP82,TooMuchScattering,,,CLongPointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/CLongPointer.java,,javacpp,javacpp-1.2,5/15/2016
+83,AP83,TooMuchScattering,,,DoublePointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/DoublePointer.java,,javacpp,javacpp-1.2,5/15/2016
+84,AP84,TooMuchScattering,,,IntPointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/IntPointer.java,,javacpp,javacpp-1.2,5/15/2016
+85,AP85,TooMuchScattering,,,FloatPointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/FloatPointer.java,,javacpp,javacpp-1.2,5/15/2016
+86,AP86,TooMuchScattering,,,BoolPointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/BoolPointer.java,,javacpp,javacpp-1.2,5/15/2016
+87,AP87,TooMuchScattering,,,PointerPointer<P extends Pointer>,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/PointerPointer.java,,javacpp,javacpp-1.2,5/15/2016
+88,AP88,TooMuchScattering,,,ShortPointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/ShortPointer.java,,javacpp,javacpp-1.2,5/15/2016
+89,AP89,TooMuchScattering,,,SizeTPointer,org.bytedeco.javacpp,javacpp-1.2/src/main/java/org/bytedeco/javacpp/SizeTPointer.java,,javacpp,javacpp-1.2,5/15/2016

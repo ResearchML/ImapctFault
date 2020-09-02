@@ -1,0 +1,17 @@
+Id_Table,ID,Name,Variable,Method,Class,Package,File,File Name,System,Version,Release
+1,CS1,UnusedParameters,fast,FSE_compress_usingCTable_generic,,,zstd-jni-0.4.4/src/main/native/fse.c,fse.c,zstd-jni,zstd-jni-0.4.4,12/17/2015
+2,CS2,UnusedParameters,dt,HUF_decodeStreamX2,,,zstd-jni-0.4.4/src/main/native/huff0.c,huff0.c,zstd-jni,zstd-jni-0.4.4,12/17/2015
+3,CS3,UnusedParameters,dtLog,HUF_decodeStreamX2,,,zstd-jni-0.4.4/src/main/native/huff0.c,huff0.c,zstd-jni,zstd-jni-0.4.4,12/17/2015
+4,CS4,NotSecuringLibraries,tempLib.getAbsolutePath(),load,,com.github.luben.zstd.util,zstd-jni-0.4.4/src/main/java/com/github/luben/zstd/util/Native.java,Native.java,zstd-jni,zstd-jni-0.4.4,12/17/2015
+5,AP5,ExcessiveInterLanguageCommunication,,compressContinue,ZstdOutputStream,com.github.luben.zstd,zstd-jni-0.4.4/src/main/java/com/github/luben/zstd/ZstdOutputStream.java,,zstd-jni,zstd-jni-0.4.4,12/17/2015
+6,AP6,ExcessiveInterLanguageCommunication,,decompressContinue,ZstdInputStream,com.github.luben.zstd,zstd-jni-0.4.4/src/main/java/com/github/luben/zstd/ZstdInputStream.java,,zstd-jni,zstd-jni-0.4.4,12/17/2015
+7,AP7,ExcessiveInterLanguageCommunication,,nextSrcSizeToDecompress,ZstdInputStream,com.github.luben.zstd,zstd-jni-0.4.4/src/main/java/com/github/luben/zstd/ZstdInputStream.java,,zstd-jni,zstd-jni-0.4.4,12/17/2015
+8,AP8,ExcessiveInterLanguageCommunication,,compressEnd,ZstdOutputStream,com.github.luben.zstd,zstd-jni-0.4.4/src/main/java/com/github/luben/zstd/ZstdOutputStream.java,,zstd-jni,zstd-jni-0.4.4,12/17/2015
+9,AP9,ExcessiveInterLanguageCommunication,,compressBegin,ZstdOutputStream,com.github.luben.zstd,zstd-jni-0.4.4/src/main/java/com/github/luben/zstd/ZstdOutputStream.java,,zstd-jni,zstd-jni-0.4.4,12/17/2015
+10,AP10,ExcessiveInterLanguageCommunication,,findOBuffSize,ZstdInputStream,com.github.luben.zstd,zstd-jni-0.4.4/src/main/java/com/github/luben/zstd/ZstdInputStream.java,,zstd-jni,zstd-jni-0.4.4,12/17/2015
+11,AP11,ExcessiveInterLanguageCommunication,,findIBuffSize,ZstdOutputStream,com.github.luben.zstd,zstd-jni-0.4.4/src/main/java/com/github/luben/zstd/ZstdOutputStream.java,,zstd-jni,zstd-jni-0.4.4,12/17/2015
+12,AP12,ExcessiveInterLanguageCommunication,,freeCCtx,ZstdOutputStream,com.github.luben.zstd,zstd-jni-0.4.4/src/main/java/com/github/luben/zstd/ZstdOutputStream.java,,zstd-jni,zstd-jni-0.4.4,12/17/2015
+13,AP13,ExcessiveInterLanguageCommunication,,isError,Zstd,com.github.luben.zstd,zstd-jni-0.4.4/src/main/java/com/github/luben/zstd/Zstd.java,,zstd-jni,zstd-jni-0.4.4,12/17/2015
+14,AP14,ExcessiveInterLanguageCommunication,,getErrorName,Zstd,com.github.luben.zstd,zstd-jni-0.4.4/src/main/java/com/github/luben/zstd/Zstd.java,,zstd-jni,zstd-jni-0.4.4,12/17/2015
+15,AP15,TooMuchScattering,,,Zstd,com.github.luben.zstd,zstd-jni-0.4.4/src/main/java/com/github/luben/zstd/Zstd.java,,zstd-jni,zstd-jni-0.4.4,12/17/2015
+16,AP16,TooMuchScattering,,,ZstdInputStream,com.github.luben.zstd,zstd-jni-0.4.4/src/main/java/com/github/luben/zstd/ZstdInputStream.java,,zstd-jni,zstd-jni-0.4.4,12/17/2015

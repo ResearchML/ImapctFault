@@ -1,0 +1,608 @@
+
+Bug-fix Commit: 28e24c8792fa79a34dab9d218f35fc77ccf4653c Date: 2015-02-26 Msg: Fix for compilation with gcc-4.4
+Bug-inducing commit(s)
+================================================
+4bcc62af0dd9020311bddb6d368b6a8dd067989a 2015-10-24
+------------------------------------------------
+
+Bug-fix Commit: f4c90ba8307750863e4be1a0753e3f9d2147991f Date: 2015-03-02 Msg: More README fixes
+Bug-inducing commit(s)
+================================================
+9e3d13c7c13b0f7071cd7c7be1f5c45cf5214d61 2015-09-11
+------------------------------------------------
+
+Bug-fix Commit: 9f77d80c5b37f5183c6022c324abcd90491b56e7 Date: 2015-03-08 Msg: more README fixes
+Bug-inducing commit(s)
+================================================
+327cb94e7bd327fcfcf4b504fae7cb23f22522ca 2017-06-20
+------------------------------------------------
+
+Bug-fix Commit: afc33854f3427f486d0ba5b39876199077b36dc5 Date: 2015-03-25 Msg: fixes
+Bug-inducing commit(s)
+================================================
+4f278f84e800dac5a29b15d860f542c35746d499 2015-08-29
+------------------------------------------------
+
+------------------------------------------------
+Bug-fix Commit: 1e3760d045c1ed21505bc193e20ab6f3d4cd59e9 2015-11-29 Msg: fix buffer sizes
+Bug-inducing commit(s)
+================================================
+c3d43955e7e12fabac85a5e8a15c955b89807aa0 2015-11-29
+------------------------------------------------
+
+------------------------------------------------
+Bug-fix Commit: 1e3760d045c1ed21505bc193e20ab6f3d4cd59e9 2015-11-29 Msg: fix buffer sizes
+Bug-inducing commit(s)
+================================================
+e61769d9d20df1f3baf18cd80eaecafd1349280d 2015-12-02
+------------------------------------------------
+
+Bug-fix Commit: fb3e04fe7df82d041fb0e0b592f2c235211f7b90 Date: 2015-11-30 Msg: fix the build version to 0.4.0
+Bug-inducing commit(s)
+================================================
+e61769d9d20df1f3baf18cd80eaecafd1349280d 2015-12-02
+------------------------------------------------
+
+Bug-fix Commit: 1e3760d045c1ed21505bc193e20ab6f3d4cd59e9 Date: 2015-11-30 Msg: fix buffer sizes
+Bug-inducing commit(s)
+================================================
+eefa097b534a67ad6c2c40dbdfa1cc172aff5cc3 2015-12-23
+------------------------------------------------
+
+Bug-fix Commit: c1f5a6e20e3f2b0f5363b9f9233cf44f5c90e884 Date: 2015-12-07 Msg: Fix the 32bit compatibility
+Bug-inducing commit(s)
+================================================
+4bcc62af0dd9020311bddb6d368b6a8dd067989a 2015-10-24
+------------------------------------------------
+
+Bug-fix Commit: c1f5a6e20e3f2b0f5363b9f9233cf44f5c90e884 Date: 2015-12-07 Msg: Fix the 32bit compatibility
+Bug-inducing commit(s)
+================================================
+7fa46c958124d2f2f84a4dbb239b00066aad9667 2015-12-17
+------------------------------------------------
+
+Bug-fix Commit: 778796e9e918863cc32a84f51080a84cd6b0ec80 Date: 2015-12-17 Msg: fix compilation on 32 bit platforms
+Bug-inducing commit(s)
+================================================
+7fa46c958124d2f2f84a4dbb239b00066aad9667 2015-12-17
+------------------------------------------------
+
+Bug-fix Commit: 778796e9e918863cc32a84f51080a84cd6b0ec80 Date: 2015-12-17 Msg: fix compilation on 32 bit platforms
+Bug-inducing commit(s)
+================================================
+c1f5a6e20e3f2b0f5363b9f9233cf44f5c90e884 2015-12-07
+------------------------------------------------
+
+Bug-fix Commit: 778796e9e918863cc32a84f51080a84cd6b0ec80 Date: 2015-12-17 Msg: fix compilation on 32 bit platforms
+Bug-inducing commit(s)
+================================================
+4bcc62af0dd9020311bddb6d368b6a8dd067989a 2015-10-24
+------------------------------------------------
+
+Bug-fix Commit: c1f5a6e20e3f2b0f5363b9f9233cf44f5c90e884 Date: 2015-12-17 Msg: fix compilation on 32 bit platforms
+Bug-inducing commit(s)
+================================================
+eefa097b534a67ad6c2c40dbdfa1cc172aff5cc3 2015-12-22
+------------------------------------------------
+
+Bug-fix Commit: 5984daa1cedfcf1a38c0a49007c6b586491f1e99 Date: 2015-12-17 Msg: Concurrency fix
+Bug-inducing commit(s)
+================================================
+1e3760d045c1ed21505bc193e20ab6f3d4cd59e9 2015-11-29
+------------------------------------------------
+
+Bug-fix Commit: 778796e9e918863cc32a84f51080a84cd6b0ec80 Date: 2015-12-17 Msg: fix compilation on 32 bit platforms
+Bug-inducing commit(s)
+================================================
+8874a966c65c6d1a49b99ca1ea75f5edcb3005cb 2016-08-14
+------------------------------------------------
+
+Bug-fix Commit: eefa097b534a67ad6c2c40dbdfa1cc172aff5cc3 Date: 2015-12-22 Msg: Fix all -Xcheck=jni warnings
+Bug-inducing commit(s)
+================================================
+778796e9e918863cc32a84f51080a84cd6b0ec8 2015-12-17
+------------------------------------------------
+
+Bug-fix Commit: eefa097b534a67ad6c2c40dbdfa1cc172aff5cc3 Date: 2015-12-22 Msg: Fix all -Xcheck=jni warnings
+Bug-inducing commit(s)
+================================================
+7fa46c958124d2f2f84a4dbb239b00066aad9667 2015-12-17
+------------------------------------------------
+
+Bug-fix Commit: eefa097b534a67ad6c2c40dbdfa1cc172aff5cc3 Date: 2015-12-22 Msg: Fix all -Xcheck=jni warnings
+Bug-inducing commit(s)
+================================================
+4bcc62af0dd9020311bddb6d368b6a8dd067989a 2015-10-24
+------------------------------------------------
+
+Bug-fix Commit: eefa097b534a67ad6c2c40dbdfa1cc172aff5cc3 Date: 2015-12-22 Msg: Fix all -Xcheck=jni warnings
+Bug-inducing commit(s)
+================================================
+c1f5a6e20e3f2b0f5363b9f9233cf44f5c90e884 2015-12-07
+------------------------------------------------
+
+Bug-fix Commit: eefa097b534a67ad6c2c40dbdfa1cc172aff5cc3 Date: 2015-12-22 Msg: Fix all -Xcheck=jni warnings
+Bug-inducing commit(s)
+================================================
+c3d43955e7e12fabac85a5e8a15c955b89807aa0 2015-11-29
+------------------------------------------------
+
+Bug-fix Commit: eefa097b534a67ad6c2c40dbdfa1cc172aff5cc3 Date: 2015-12-22 Msg: Fix all -Xcheck=jni warnings
+Bug-inducing commit(s)
+================================================
+57c0b22e5ab7540af183e80c3095623de2883c75 2015-11-04
+------------------------------------------------
+
+Bug-fix Commit: eefa097b534a67ad6c2c40dbdfa1cc172aff5cc3 Date: 2015-12-22 Msg: Fix all -Xcheck=jni warnings
+Bug-inducing commit(s)
+================================================
+1e3760d045c1ed21505bc193e20ab6f3d4cd59e9 2015-11-29
+------------------------------------------------
+
+------------------------------------------------
+Bug-fix Commit: eefa097b534a67ad6c2c40dbdfa1cc172aff5cc3 Date: 2015-12-22 Msg: Fix all -Xcheck=jni warnings
+Bug-inducing commit(s)
+================================================
+e61769d9d20df1f3baf18cd80eaecafd1349280d 2015-12-02
+------------------------------------------------
+
+------------------------------------------------
+Bug-fix Commit: 1e3760d045c1ed21505bc193e20ab6f3d4cd59e9 2015-11-29 Msg: fix buffer sizes
+Bug-inducing commit(s)
+================================================
+c3d43955e7e12fabac85a5e8a15c955b89807aa0 2015-11-29
+------------------------------------------------
+
+------------------------------------------------
+Bug-fix Commit: 5984daa1cedfcf1a38c0a49007c6b586491f1e99 Date: 2015-12-17 Msg: Concurrency fix
+Bug-inducing commit(s)
+================================================
+1e3760d045c1ed21505bc193e20ab6f3d4cd59e9 2015-11-29
+------------------------------------------------
+
+------------------------------------------------
+Bug-fix Commit: 5984daa1cedfcf1a38c0a49007c6b586491f1e99 Date: 2015-12-17 Msg: Concurrency fix
+Bug-inducing commit(s)
+================================================
+c3d43955e7e12fabac85a5e8a15c955b89807aa0 2015-11-29
+------------------------------------------------
+
+------------------------------------------------
+Bug-fix Commit: 5984daa1cedfcf1a38c0a49007c6b586491f1e99 Date: 2015-12-17 Msg: Concurrency fix
+Bug-inducing commit(s)
+================================================
+e61769d9d20df1f3baf18cd80eaecafd1349280d 2015-12-02
+------------------------------------------------
+
+------------------------------------------------
+Bug-fix Commit: 34628c583ec5967d6ae05beb8b74083475b67396 Date: 2016-01-23 Msg: Use direct byte biffers for the intermediate src/dst
+Bug-inducing commit(s)
+================================================
+ed57a992c71064752d090e3d8b30a213ff56ca39 2016-01-23
+------------------------------------------------
+
+Bug-fix Commit: a6ac2113c47924fc8747d9f9f38d1d712455a261 Date: 2016-02-06 Msg: fix artifacts upload
+Bug-inducing commit(s)
+================================================
+534b31b840f662a495b6cc51525a6c35c4c0a195 2016-02-06
+------------------------------------------------
+
+Bug-fix Commit: f11f7b30176ba5a81604f628b27794cf7de9fec6 Date: 2016-02-06 Msg: fix yaml syntax
+Bug-inducing commit(s)
+================================================
+534b31b840f662a495b6cc51525a6c35c4c0a195 2016-02-06
+------------------------------------------------
+
+Bug-fix Commit: 534b31b840f662a495b6cc51525a6c35c4c0a195 Date: 2016-02-06 Msg: fix it
+Bug-inducing commit(s)
+================================================
+47e11e2fb6b581cc8244d2c1f7eeb8b0b22feacc 2016-02-06
+------------------------------------------------
+
+Bug-fix Commit: c7cf0b4202d9cfd13f10f09836093dc492593be3 Date: 2016-02-11 Msg: appveyor debug
+Bug-inducing commit(s)
+================================================
+ed58b1e61ae5291d7c0fd31e16523492d5c84e44 2016-02-11
+------------------------------------------------
+
+Bug-fix Commit: 19ab2e4ac014a29f3e7e6dac1bd03a2785ef5cff Date: 2016-02-11 Msg: fix
+Bug-inducing commit(s)
+================================================
+812472764586b3049d6361b168f5a226fe18b6d9 2016-02-11
+------------------------------------------------
+
+Bug-fix Commit: a7c006910f8ddaa9fc44cf8cc03223221795006f Date: 2016-02-11 Msg: fix
+Bug-inducing commit(s)
+================================================
+263d27f6693ce48216de3359936e8d77ddf7fd81 2016-02-11
+------------------------------------------------
+
+Bug-fix Commit: d3b1efefcc1604b11cf7649f53386c6816d9d3dc Date: 2016-02-11 Msg: Try to fix the java paths
+Bug-inducing commit(s)
+================================================
+05926ffb73a8cc08c7bd25af26b79605ee0f3265 2016-02-11
+------------------------------------------------
+
+Bug-fix Commit: 12b5cdbc25534400af8ab78616408478814fc19c Date: 2016-02-11 Msg: Fix artifacts config error
+Bug-inducing commit(s)
+================================================
+a04cee42f6b772a2e7159ccb446543a8cbce00aa 2016-02-11
+------------------------------------------------
+
+Bug-fix Commit: 20fc528a26de8920bcb9265ba5e04105a310a5bd Date: 2016-02-11 Msg: debug
+Bug-inducing commit(s)
+================================================
+316f9800b93f6cfa6b8e6e19544615fbca4c503d 2016-02-11
+------------------------------------------------
+
+Bug-fix Commit: 316f9800b93f6cfa6b8e6e19544615fbca4c503d Date: 2016-02-11 Msg: remove debug
+Bug-inducing commit(s)
+================================================
+be2b51ffc8b8d05105be750f6bdefd2ac9402545 2018-09-03
+------------------------------------------------
+
+------------------------------------------------
+Bug-fix Commit: 1dd08fe41d68dffeb175ff7835b003179fe25c25 Date: 2016-05-03 Msg: Revert "fix for zstd #153"
+Bug-inducing commit(s)
+================================================
+a82de8410e624a51f22fb226600666dd6eaf8cbf 2016-04-19
+------------------------------------------------
+
+------------------------------------------------
+Bug-fix Commit: 4a61bbebb45a1ccc83bdf7a36ebaa7f02c92cd2e Date: 2016-11-04 Msg: WIP streaming decompression
+Bug-inducing commit(s)
+================================================
+5ff804c9979b9aa957cc7eb5861c9702bf7c3467 2016-11-03
+------------------------------------------------
+
+------------------------------------------------
+Bug-fix Commit: 672625d79fbecd55d85b0b59c3be4a2afb2c217e Date: 2016-08-17 Msg: A fix and a simpliifcation
+Bug-inducing commit(s)
+================================================
+a46d7a1aeb5d7c9fdb8e9b69a2daf12876db18b0 2016-08-17
+------------------------------------------------
+
+------------------------------------------------
+Bug-fix Commit: b6ff19a45cf7cb5ce216a9343b110936de9fb843 Date: 2016-11-08 Msg: Remove debug printfs
+Bug-inducing commit(s)
+================================================
+46dcb2a54c8b8f2ce2cad7187a7513f509c533ac 2016-11-08
+------------------------------------------------
+
+------------------------------------------------
+Bug-fix Commit: 672625d79fbecd55d85b0b59c3be4a2afb2c217e Date: 2016-08-17 Msg: A fix and a simpliifcation
+Bug-inducing commit(s)
+================================================
+a0934413d21f2d03d606090693be096851c3f2d4 2016-08-17
+------------------------------------------------
+
+------------------------------------------------
+Bug-fix Commit: 672625d79fbecd55d85b0b59c3be4a2afb2c217e Date: 2016-08-17 Msg: A fix and a simpliifcation
+Bug-inducing commit(s)
+================================================
+b14b65bb3e8469f800b8594eec1d29322bcc6d4f 2016-08-17
+------------------------------------------------
+
+------------------------------------------------
+Bug-fix Commit: 672625d79fbecd55d85b0b59c3be4a2afb2c217e Date: 2016-08-17 Msg: A fix and a simpliifcation
+Bug-inducing commit(s)
+================================================
+8874a966c65c6d1a49b99ca1ea75f5edcb3005cb 2016-08-14
+------------------------------------------------
+
+------------------------------------------------
+Bug-fix Commit: 575defffa4f90999d9807313c46b8fb461baab00 Date: 2016-09-05 Msg: fix the continuous decompression
+Bug-inducing commit(s)
+================================================
+c7daeddf3c41e405afadb3a0d84a75ab38065f1a 2016-09-04
+------------------------------------------------
+
+------------------------------------------------
+Bug-fix Commit: 575defffa4f90999d9807313c46b8fb461baab00 Date: 2016-09-05 Msg: fix the continuous decompression
+Bug-inducing commit(s)
+================================================
+4a61bbebb45a1ccc83bdf7a36ebaa7f02c92cd2e Date: 2016-11-04
+------------------------------------------------
+
+------------------------------------------------
+Bug-fix Commit: 575defffa4f90999d9807313c46b8fb461baab00 Date: 2016-09-05 Msg: fix the continuous decompression
+Bug-inducing commit(s)
+================================================
+5ff804c9979b9aa957cc7eb5861c9702bf7c3467 Date: 2016-11-03
+------------------------------------------------
+
+------------------------------------------------
+Bug-fix Commit: 575defffa4f90999d9807313c46b8fb461baab00 Date: 2016-09-05 Msg: fix the continuous decompression
+Bug-inducing commit(s)
+================================================
+9db851db270577e00de633099e7f235277b51edd Date: 2016-08-05
+------------------------------------------------
+
+------------------------------------------------
+Bug-fix Commit: 575defffa4f90999d9807313c46b8fb461baab00 Date: 2016-09-05 Msg: fix the continuous decompression
+Bug-inducing commit(s)
+================================================
+edd10f26c2d39b07a17a96f20a69a0bc6655552d Date: 2016-08-04
+------------------------------------------------
+
+------------------------------------------------
+Bug-fix Commit: 575defffa4f90999d9807313c46b8fb461baab00 Date: 2016-09-05 Msg: fix the continuous decompression
+Bug-inducing commit(s)
+================================================
+9a5b9b20dd594d34c9a6e46d259da11c6af1f062 Date: 2016-08-04
+------------------------------------------------
+
+------------------------------------------------
+Bug-fix Commit: 575defffa4f90999d9807313c46b8fb461baab00 Date: 2016-09-05 Msg: fix the continuous decompression
+Bug-inducing commit(s)
+================================================
+0fec20fb6ce9294e19644c48d2ff7bf64ac6e907 Date: 2016-09-05
+------------------------------------------------
+
+------------------------------------------------
+Bug-fix Commit: 93e7d2a56dd7acc73150cf75486f728108f91124 Date: 2016-09-05 Msg: Cleanup the streaming decompression
+Bug-inducing commit(s)
+================================================
+c7daeddf3c41e405afadb3a0d84a75ab38065f1a Date: 2016-09-04
+------------------------------------------------
+
+------------------------------------------------
+Bug-fix Commit: 4a61bbebb45a1ccc83bdf7a36ebaa7f02c92cd2e Date: 2016-09-04 Msg: WIP streaming decompression
+Bug-inducing commit(s)
+================================================
+5ff804c9979b9aa957cc7eb5861c9702bf7c3467 Date: 2016-09-03
+------------------------------------------------
+
+Bug-fix Commit: 940a919f1233b59d73f29ea3b07310a6dc7bd013 Date: 2016-11-23 Msg: Fix warnings for long/ptr size mismatch on 32bit architectures
+Bug-inducing commit(s)
+================================================
+1c4e5a6c3ce8458095225d987d669e6a0937734a 2017-05-10
+------------------------------------------------
+
+Bug-fix Commit: 200c6b4de944ec9e30f1ac588f86a93fb3f52335 Date: 2016-11-23 Msg: better fix for the failing test
+Bug-inducing commit(s)
+================================================
+4a63b75b32b6c0bc6eead18fa24bf37918822ce1 2016-12-17
+------------------------------------------------
+
+Bug-fix Commit: 318ed243aa6aa5dc6f07979670afa645f0f75016 Date: 2016-11-23 Msg: try to fix appveyor
+Bug-inducing commit(s)
+================================================
+5c1f9c9085cd92a9346bf485d2f593a82fd46766 2016-11-23
+------------------------------------------------
+
+Bug-fix Commit: 5c1f9c9085cd92a9346bf485d2f593a82fd46766 Date: 2016-11-23 Msg: the actual fix
+Bug-inducing commit(s)
+================================================
+1c02b191373bcf2d8a869358e23f0081a3fbb225 2018-04-13
+------------------------------------------------
+
+Bug-fix Commit: a9650343e38b318f94c12254642d2d7a733c6dde Date: 2016-12-12 Msg: Add finalizers in order not to leak native memory
+Bug-inducing commit(s)
+================================================
+f4335132698b643c1f4333c7d2ef52ebba27c518 2018-11-29
+------------------------------------------------
+
+Bug-fix Commit: caeee2bedb8c7ea1d18aeeb5311826b8847e2749 Date: 2016-12-17 Msg: Fix javadoc options
+Bug-inducing commit(s)
+================================================
+12a975e6abd19667f822782437887683f5466a42 2019-01-24
+------------------------------------------------
+
+Bug-fix Commit: 4a63b75b32b6c0bc6eead18fa24bf37918822ce1 Date: 2016-12-17 Msg: Fix for flaky test
+Bug-inducing commit(s)
+================================================
+1c4e5a6c3ce8458095225d987d669e6a0937734a 2017-05-10
+------------------------------------------------
+
+Bug-fix Commit: 117f52632b4e78f60bc8f936e62db3bb6d3f9ed1 Date: 2018-01-15 Msg: Fix another corner case with closing frames on flush
+Bug-inducing commit(s)
+================================================
+fb03b0411f3cba035255543b94d8096defe43fbd 2018-02-16
+------------------------------------------------
+
+------------------------------------------------
+Bug-fix Commit: 6fff96ae5aec289c606e4b5d6bf4aa343f6c139e Date: 2017-04-10 Msg: Fixed doc error.
+Bug-inducing commit(s)
+================================================
+d2aa69e7fbbd9e59909d5ea3819c26bf4c86a166 Date: 2017-03-18
+------------------------------------------------
+
+------------------------------------------------
+Bug-fix Commit: 5098410c5be87047498ef246d3dedcdf79c20020 Date: 2017-12-13 Msg: Fix func name mismatch
+Bug-inducing commit(s)
+================================================
+53d3c6342883f7d6717b2477a7f9c1b4a4a56980 Date: 2017-12-08
+------------------------------------------------
+
+------------------------------------------------
+Bug-fix Commit: fb03b0411f3cba035255543b94d8096defe43fbd Date: 2018-02-16 Msg: Fix crash on dict training with direct buffers
+Bug-inducing commit(s)
+================================================
+53d3c6342883f7d6717b2477a7f9c1b4a4a56980 Date: 2017-12-08
+------------------------------------------------
+
+Bug-fix Commit: 1c02b191373bcf2d8a869358e23f0081a3fbb225 Date: 2018-04-13 Msg: Another appveyor script fix
+Bug-inducing commit(s)
+================================================
+fd320c36890b6ad3fd246e61cd58cdd63e358a72 2020-05-29
+------------------------------------------------
+
+Bug-fix Commit: 0a1d6e796af512be1ba7b600feffc2687a1ad509 Date: 2018-04-17 Msg: InputStream skip() fix
+Bug-inducing commit(s)
+================================================
+6149ee4473b1cec8ad3865c8d437600611cbe9c5 2018-11-29
+------------------------------------------------
+
+Bug-fix Commit: 170d0b953fc2d86470263cae7bd141b4ffeed026 Date: 2018-05-24 Msg: Fix copyright years in the licenses
+Bug-inducing commit(s)
+================================================
+0b14103c54a611622f54c6119e9028b75887e28d 2018-10-07
+------------------------------------------------
+
+Bug-fix Commit: 9f3e03010cbbc9da75e80946542e23e72857a0d2 Date: 2018-06-22 Msg: Fix the Automatic-Module-Name
+Bug-inducing commit(s)
+================================================
+ba00fcf97a032a6454b7437b914a59feb6e204bb 2018-06-22
+------------------------------------------------
+
+Bug-fix Commit: 41b42081e668ffa951be9122871ed799dd5eab4d Date: 2018-09-03 Msg: Fix static analysis warnings found by LGTM.com
+Bug-inducing commit(s)
+================================================
+ff5a660725fa3b43a5e9d62be15d420391ebd5f0 2018-09-03
+------------------------------------------------
+
+------------------------------------------------
+Bug-fix Commit: b7c6a603c864313913ab2b9b003e95d310c0d691 Date: 2018-07-04 Msg: Add round-trip tests for streaming with dicts
+Bug-inducing commit(s)
+================================================
+1aae8f4d75d6ab704ae3750d12f9a9062ddb06dd Date: 2018-07-04
+------------------------------------------------
+
+------------------------------------------------
+Bug-fix Commit: 41b42081e668ffa951be9122871ed799dd5eab4d Date: 2018-09-03 Msg: Fix static analysis warnings found by LGTM.com
+Bug-inducing commit(s)
+================================================
+e2cc19def16c1989e93864238d422da5d9570b9d Date: 2018-08-22
+------------------------------------------------
+
+------------------------------------------------
+Bug-fix Commit: 41b42081e668ffa951be9122871ed799dd5eab4d Date: 2018-09-03 Msg: Fix static analysis warnings found by LGTM.com
+Bug-inducing commit(s)
+================================================
+3d9335c9ce6afcbc7f59b0eb01b485443d1afe96 Date: 2018-09-17
+------------------------------------------------
+
+------------------------------------------------
+Bug-fix Commit: 41b42081e668ffa951be9122871ed799dd5eab4d Date: 2018-09-03 Msg: Fix static analysis warnings found by LGTM.com
+Bug-inducing commit(s)
+================================================
+1aae8f4d75d6ab704ae3750d12f9a9062ddb06dd Date: 2018-07-04
+------------------------------------------------
+
+------------------------------------------------
+Bug-fix Commit: 41b42081e668ffa951be9122871ed799dd5eab4d Date: 2018-09-03 Msg: Fix static analysis warnings found by LGTM.com
+Bug-inducing commit(s)
+================================================
+7eec5581b8ccb0d98350ad5ba422337eebbbe70e Date: 2018-09-12
+------------------------------------------------
+
+------------------------------------------------
+Bug-fix Commit: 2e50d53e5296d280dc874cb4fcd1d779bbfb4e48 Date: 2018-09-11 Msg: Fix ZstdInputStream.read() on empty frame
+Bug-inducing commit(s)
+================================================
+1aae8f4d75d6ab704ae3750d12f9a9062ddb06dd Date: 2018-07-04
+------------------------------------------------
+
+------------------------------------------------
+Bug-fix Commit: 2e50d53e5296d280dc874cb4fcd1d779bbfb4e48 Date: 2018-09-11 Msg: Fix ZstdInputStream.read() on empty frame
+Bug-inducing commit(s)
+================================================
+7eec5581b8ccb0d98350ad5ba422337eebbbe70e Date: 2018-09-12
+------------------------------------------------
+
+------------------------------------------------
+Bug-fix Commit: 9431610b27a5e55329bdbbf53906641e62a737d4 Date: 2018-09-12 Msg: Another fix
+Bug-inducing commit(s)
+================================================
+7eec5581b8ccb0d98350ad5ba422337eebbbe70e Date: 2018-09-12
+------------------------------------------------
+
+------------------------------------------------
+Bug-fix Commit: 9431610b27a5e55329bdbbf53906641e62a737d4 Date: 2018-09-12 Msg: Another fix
+Bug-inducing commit(s)
+================================================
+1aae8f4d75d6ab704ae3750d12f9a9062ddb06dd Date: 2018-07-04
+------------------------------------------------
+
+Bug-fix Commit: 2e50d53e5296d280dc874cb4fcd1d779bbfb4e48 Date: 2018-09-12 Msg: Fix ZstdInputStream.read() on empty frame
+Bug-inducing commit(s)
+================================================
+8dfb4f93586b16d64d10caadd44320cadbe2be96 2018-09-10
+------------------------------------------------
+
+Bug-fix Commit: d4a2b7d177624f787295464f53159b82cddc7e4b Date: 2018-09-12 Msg: Fix
+Bug-inducing commit(s)
+================================================
+3d9335c9ce6afcbc7f59b0eb01b485443d1afe96 2018-09-18
+------------------------------------------------
+
+Bug-fix Commit: 6de5e16e50b82c57abf8b758246b81ac74885b40 Date: 2018-10-14 Msg: Indentation fixes
+Bug-inducing commit(s)
+================================================
+ 
+------------------------------------------------
+
+Bug-fix Commit: 3934200f233e61b964573ddcccefc8f5e5dedd74 Date: 2018-10-14 Msg: Fix break in ByteBuffer contract
+Bug-inducing commit(s)
+================================================
+6f31a416af5affcfdc209e4c71aab7e5637aaa2b 2018-10-21
+------------------------------------------------
+
+Bug-fix Commit: 5cf3328b0fb4323dcf345c3b8dc57c639ef452b4 Date: 2019-01-29 Msg: Fix multi-frame decoding
+Bug-inducing commit(s)
+================================================
+0827ed02551bbd8d6f8e4bbff99d83bf50f91938 2019-01-29
+------------------------------------------------
+
+Bug-fix Commit: 8b92ca7b64273ee3a0f5b2996d6ac065f3a57357 Date: 2019-01-29 Msg: Fixed build, new minor version
+Bug-inducing commit(s)
+================================================
+0830536d204f2944f4a124517aec80b5e5dc2647 2019-02-14
+------------------------------------------------
+
+------------------------------------------------
+Bug-fix Commit: 458b18ddd1a62b5fea7987ea427c88bc808121d7 Date: 2019-01-30 Msg: Comment out the load(Fast)DictCompress functions
+Bug-inducing commit(s)
+================================================
+bef29e64167fe89318e3e3470136b7af698578a4 Date: 2019-02-21
+------------------------------------------------
+
+Bug-fix Commit: bc73537b9e79d5ab146fb75450ec3b2b69cdf11a Date: 2019-04-15 Msg: Fix the multi-threaded compression
+Bug-inducing commit(s)
+================================================
+28c368000edba71588d17a0c1e09bb01684884d7 2019-04-17
+------------------------------------------------
+
+Bug-fix Commit: f23a739d785182067cc011a96b9b291fb0b8dd67 Date: 2019-07-15 Msg: Add getErrorCode and stable error code constants
+Bug-inducing commit(s)
+================================================
+4d8e5782d3733f831c6a55626d874d95a73e918a 2019-07-15
+------------------------------------------------
+
+Bug-fix Commit: 4d8e5782d3733f831c6a55626d874d95a73e918a Date: 2019-07-15 Msg: Throw ZstdException instead of RuntimeException
+Bug-inducing commit(s)
+================================================
+26c2ce01e4c85c2033aedc7d4ddb35082419f047 2019-07-21
+------------------------------------------------
+
+Bug-fix Commit: ac64afb9397ea441a2f4a8b159debd27b4d95273 Date: 2019-07-15 Msg: Merge pull request #101 from jeffreytolar/expose-errors
+Bug-inducing commit(s)
+================================================
+26c2ce01e4c85c2033aedc7d4ddb35082419f047 2019-07-21
+------------------------------------------------
+
+Bug-fix Commit: 1914f82c2b9d87b928746862828af75058d331b8 Date: 2019-10-21 Msg: Make API for pre-alloc ctx variants more like the others: Check error code and return size as int.
+Bug-inducing commit(s)
+================================================
+6625e2727f6635ebddfd4a313662095074a33b84 2019-10-21
+------------------------------------------------
+
+Bug-fix Commit: 66008ea70577d475aecd5afaf98591e85400a59c Date: 2019-10-21 Msg: Merge pull request #108 from humio/errorhandling-in-COVER_best_finish
+Bug-inducing commit(s)
+================================================
+1914f82c2b9d87b928746862828af75058d331b8 2019-10-21
+------------------------------------------------
+
+Bug-fix Commit: 5346992f0365838ed196fdca6f2bd30e4bcddc53 Date: 2020-01-05 Msg: More detailed message on link errors
+Bug-inducing commit(s)
+================================================
+a71db13bc635deaf59b650de9d6b5b2b964eb946 2020-01-14
+------------------------------------------------
+
+Bug-fix Commit: 2662fbdc320ce482a24c20b8fcac8b1d5b79fe33 Date: 2020-07-02 Msg: Fix copy/paste error in compressUsingDict
+Bug-inducing commit(s)
+================================================
+Error or no bug inducing commit retrieved
+------------------------------------------------
+

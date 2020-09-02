@@ -1,0 +1,710 @@
+Results for:conscrypt
+==================================
+System: conscrypt, Smell: LocalReferencesAbuse
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: conscrypt, Smell: Toomuchclustring
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: conscrypt, Smell: NotCachingObjects
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: conscrypt, Smell: excessiveInterlangCommunication
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: conscrypt, Smell: ExcessiveObjects
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: conscrypt, Smell: UnusedParameter
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: conscrypt, Smell: NotSecuringLibraries
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: conscrypt, Smell: NotUsingRelativePath
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: conscrypt, Smell: ToomuchScattering
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: conscrypt, Smell: HardCodingLibraries
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: conscrypt, Smell: UnusedMethodImplementation
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: conscrypt, Smell: MemoryManagementMismatch
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: conscrypt, Smell: AssumingSafeReturnValue
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: conscrypt, Smell: NotHandlingExceptions
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: conscrypt, Smell: UnusedMethodDeclaration
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+Results for:java-smt
+==================================
+System: java-smt, Smell: LocalReferencesAbuse
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: java-smt, Smell: Toomuchclustring
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: java-smt, Smell: NotCachingObjects
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: java-smt, Smell: excessiveInterlangCommunication
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: java-smt, Smell: ExcessiveObjects
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: java-smt, Smell: UnusedParameter
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: java-smt, Smell: NotSecuringLibraries
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: java-smt, Smell: NotUsingRelativePath
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: java-smt, Smell: ToomuchScattering
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: java-smt, Smell: HardCodingLibraries
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: java-smt, Smell: UnusedMethodImplementation
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: java-smt, Smell: MemoryManagementMismatch
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: java-smt, Smell: AssumingSafeReturnValue
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: java-smt, Smell: NotHandlingExceptions
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: java-smt, Smell: UnusedMethodDeclaration
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+Results for:javacpp
+==================================
+System: javacpp, Smell: LocalReferencesAbuse
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: javacpp, Smell: Toomuchclustring
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: javacpp, Smell: NotCachingObjects
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: javacpp, Smell: excessiveInterlangCommunication
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: javacpp, Smell: ExcessiveObjects
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: javacpp, Smell: UnusedParameter
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: javacpp, Smell: NotSecuringLibraries
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: javacpp, Smell: NotUsingRelativePath
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: javacpp, Smell: ToomuchScattering
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: javacpp, Smell: HardCodingLibraries
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: javacpp, Smell: UnusedMethodImplementation
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: javacpp, Smell: MemoryManagementMismatch
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: javacpp, Smell: AssumingSafeReturnValue
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: javacpp, Smell: NotHandlingExceptions
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: javacpp, Smell: UnusedMethodDeclaration
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+Results for:jpype
+==================================
+System: jpype, Smell: LocalReferencesAbuse
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: jpype, Smell: Toomuchclustring
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: jpype, Smell: NotCachingObjects
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: jpype, Smell: excessiveInterlangCommunication
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: jpype, Smell: ExcessiveObjects
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: jpype, Smell: UnusedParameter
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: jpype, Smell: NotSecuringLibraries
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: jpype, Smell: NotUsingRelativePath
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: jpype, Smell: ToomuchScattering
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: jpype, Smell: HardCodingLibraries
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: jpype, Smell: UnusedMethodImplementation
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: jpype, Smell: MemoryManagementMismatch
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: jpype, Smell: AssumingSafeReturnValue
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: jpype, Smell: NotHandlingExceptions
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: jpype, Smell: UnusedMethodDeclaration
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+Results for:pljava
+==================================
+System: pljava, Smell: LocalReferencesAbuse
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: pljava, Smell: Toomuchclustring
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: pljava, Smell: NotCachingObjects
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: pljava, Smell: excessiveInterlangCommunication
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: pljava, Smell: ExcessiveObjects
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: pljava, Smell: UnusedParameter
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: pljava, Smell: NotSecuringLibraries
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: pljava, Smell: NotUsingRelativePath
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: pljava, Smell: ToomuchScattering
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: pljava, Smell: HardCodingLibraries
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: pljava, Smell: UnusedMethodImplementation
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: pljava, Smell: MemoryManagementMismatch
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: pljava, Smell: AssumingSafeReturnValue
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: pljava, Smell: NotHandlingExceptions
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: pljava, Smell: UnusedMethodDeclaration
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+Results for:realm-java
+==================================
+System: realm-java, Smell: LocalReferencesAbuse
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: realm-java, Smell: Toomuchclustring
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: realm-java, Smell: NotCachingObjects
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: realm-java, Smell: excessiveInterlangCommunication
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: realm-java, Smell: ExcessiveObjects
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: realm-java, Smell: UnusedParameter
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+realm-java-5.9.0,29,25,22,1,0.052727272727272734,0.00020264350030000001
+realm-java-5.15.0,29,25,22,2,0.10545454545454544,0.0015503840109999999
+realm-java-5.11.0,29,25,22,2,0.10545454545454544,0.0015503840109999999
+
+
+System: realm-java, Smell: NotSecuringLibraries
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: realm-java, Smell: NotUsingRelativePath
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: realm-java, Smell: ToomuchScattering
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: realm-java, Smell: HardCodingLibraries
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: realm-java, Smell: UnusedMethodImplementation
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: realm-java, Smell: MemoryManagementMismatch
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: realm-java, Smell: AssumingSafeReturnValue
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: realm-java, Smell: NotHandlingExceptions
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: realm-java, Smell: UnusedMethodDeclaration
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+Results for:rocksdb
+==================================
+System: rocksdb, Smell: LocalReferencesAbuse
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: rocksdb, Smell: Toomuchclustring
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: rocksdb, Smell: NotCachingObjects
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: rocksdb, Smell: excessiveInterlangCommunication
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+rocksdb-5.18.3,14,36,3,40,5.185185185185184,0.013906744140000002
+rocksdb-5.17.2,14,37,3,36,4.54054054054054,0.027862951160000003
+rocksdb-master,15,34,3,53,7.794117647058822,0.0006766176532999999
+rocksdb-5.14.3,14,36,3,35,4.537037037037037,0.02753638709
+rocksdb-6.1.1,15,34,3,52,7.647058823529411,0.001282418072
+
+
+System: rocksdb, Smell: ExcessiveObjects
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: rocksdb, Smell: UnusedParameter
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+rocksdb-5.0.2,50,32,5,12,3.75,0.029847953139999998
+rocksdb-5.9.2,65,32,9,21,4.739583333333333,0.0005571699797
+rocksdb-5.6.2,58,32,6,18,5.4375,0.0009169130761
+rocksdb-5.11.2,65,34,17,25,2.811418685121107,0.008579509597
+rocksdb-5.4.6,58,31,6,17,5.301075268817204,0.0009345923371
+
+
+System: rocksdb, Smell: NotSecuringLibraries
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: rocksdb, Smell: NotUsingRelativePath
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: rocksdb, Smell: ToomuchScattering
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+rocksdb-5.0.2,19,63,10,7,0.2111111111111111,0.006725186355
+rocksdb-5.9.2,18,79,15,15,0.2278481012658228,0.001467281592
+rocksdb-5.6.2,19,71,12,12,0.2676056338028169,0.00866094128
+rocksdb-5.11.2,18,81,19,23,0.2690058479532164,0.0014843939259999999
+rocksdb-5.4.6,17,72,13,10,0.1816239316239316,0.0009456673312
+
+
+System: rocksdb, Smell: HardCodingLibraries
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: rocksdb, Smell: UnusedMethodImplementation
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: rocksdb, Smell: MemoryManagementMismatch
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: rocksdb, Smell: AssumingSafeReturnValue
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: rocksdb, Smell: NotHandlingExceptions
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: rocksdb, Smell: UnusedMethodDeclaration
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+rocksdb-6.1.1,6,43,1,54,7.534883720930233,0.04980092977
+
+
+Results for:vlc-android
+==================================
+System: vlc-android, Smell: LocalReferencesAbuse
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: vlc-android, Smell: Toomuchclustring
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: vlc-android, Smell: NotCachingObjects
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: vlc-android, Smell: excessiveInterlangCommunication
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: vlc-android, Smell: ExcessiveObjects
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: vlc-android, Smell: UnusedParameter
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: vlc-android, Smell: NotSecuringLibraries
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: vlc-android, Smell: NotUsingRelativePath
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: vlc-android, Smell: ToomuchScattering
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: vlc-android, Smell: HardCodingLibraries
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: vlc-android, Smell: UnusedMethodImplementation
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: vlc-android, Smell: MemoryManagementMismatch
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: vlc-android, Smell: AssumingSafeReturnValue
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: vlc-android, Smell: NotHandlingExceptions
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: vlc-android, Smell: UnusedMethodDeclaration
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+Results for:zstd-jni
+==================================
+System: zstd-jni, Smell: LocalReferencesAbuse
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: zstd-jni, Smell: Toomuchclustring
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: zstd-jni, Smell: NotCachingObjects
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: zstd-jni, Smell: excessiveInterlangCommunication
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: zstd-jni, Smell: ExcessiveObjects
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: zstd-jni, Smell: UnusedParameter
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: zstd-jni, Smell: NotSecuringLibraries
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: zstd-jni, Smell: NotUsingRelativePath
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: zstd-jni, Smell: ToomuchScattering
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: zstd-jni, Smell: HardCodingLibraries
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: zstd-jni, Smell: UnusedMethodImplementation
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: zstd-jni, Smell: MemoryManagementMismatch
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: zstd-jni, Smell: AssumingSafeReturnValue
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: zstd-jni, Smell: NotHandlingExceptions
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------
+
+
+System: zstd-jni, Smell: UnusedMethodDeclaration
+Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, pvalue
+------------------------------------

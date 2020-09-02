@@ -1,0 +1,271 @@
+For System: pljava
+====================================================
+For Smell: excessiveInterlangCommunication
+------------------------------------------------
+System, release, row_with_smell, stat, p-value
+pljava, pljava-1_2_0, 0, nan, nan
+pljava, pljava-1_3_0, 0, nan, nan
+pljava, pljava-1_4_0, 0, nan, nan
+pljava, pljava-1_4_2, 0, nan, nan
+pljava, pljava-1_4_3, 0, nan, nan
+pljava, pljava-1_5_0, 2, nan, nan
+pljava, pljava-1_5_0b3, 2, nan, nan
+pljava, pljava-1_5_1b1, 2, nan, nan
+pljava, pljava-1_5_1b2, 3, nan, nan
+pljava, pljava-1_5_2, 3, nan, nan
+pljava, pljava-REL1_5_STABLE-BASE, 2, nan, nan
+pljava, pljava-master, 1, nan, nan
+------------------------------------------------
+0/12 (0.0%) release with significant relationship
+        
+For Smell: Toomuchclustring
+------------------------------------------------
+System, release, row_with_smell, stat, p-value
+pljava, pljava-1_2_0, 0, nan, nan
+pljava, pljava-1_3_0, 0, nan, nan
+pljava, pljava-1_4_0, 0, nan, nan
+pljava, pljava-1_4_2, 0, nan, nan
+pljava, pljava-1_4_3, 0, nan, nan
+pljava, pljava-1_5_0, 4, nan, nan
+pljava, pljava-1_5_0b3, 4, nan, nan
+pljava, pljava-1_5_1b1, 4, nan, nan
+pljava, pljava-1_5_1b2, 4, nan, nan
+pljava, pljava-1_5_2, 4, nan, nan
+pljava, pljava-REL1_5_STABLE-BASE, 4, nan, nan
+pljava, pljava-master, 5, 25.0, 0.0075
+------------------------------------------------
+1/12 (8.0%) release with significant relationship
+        
+For Smell: ToomuchScattering
+------------------------------------------------
+System, release, row_with_smell, stat, p-value
+pljava, pljava-1_2_0, 0, nan, nan
+pljava, pljava-1_3_0, 0, nan, nan
+pljava, pljava-1_4_0, 0, nan, nan
+pljava, pljava-1_4_2, 0, nan, nan
+pljava, pljava-1_4_3, 0, nan, nan
+pljava, pljava-1_5_0, 14, 196.0, 0.0
+pljava, pljava-1_5_0b3, 14, 196.0, 0.0
+pljava, pljava-1_5_1b1, 14, 182.0, 0.0
+pljava, pljava-1_5_1b2, 17, 289.0, 0.0
+pljava, pljava-1_5_2, 17, 280.5, 0.0
+pljava, pljava-REL1_5_STABLE-BASE, 15, 225.0, 0.0
+pljava, pljava-master, 16, 256.0, 0.0
+------------------------------------------------
+0/12 (0.0%) release with significant relationship
+        
+For Smell: UnusedMethodDeclaration
+------------------------------------------------
+System, release, row_with_smell, stat, p-value
+pljava, pljava-1_2_0, 0, nan, nan
+pljava, pljava-1_3_0, 0, nan, nan
+pljava, pljava-1_4_0, 0, nan, nan
+pljava, pljava-1_4_2, 0, nan, nan
+pljava, pljava-1_4_3, 0, nan, nan
+pljava, pljava-1_5_0, 16, 254.5, 0.0
+pljava, pljava-1_5_0b3, 16, 256.0, 0.0
+pljava, pljava-1_5_1b1, 16, 254.5, 0.0
+pljava, pljava-1_5_1b2, 19, 361.0, 0.0
+pljava, pljava-1_5_2, 19, 357.0, 0.0
+pljava, pljava-REL1_5_STABLE-BASE, 17, 289.0, 0.0
+pljava, pljava-master, 20, 400.0, 0.0
+------------------------------------------------
+0/12 (0.0%) release with significant relationship
+        
+For Smell: UnusedMethodImplementation
+------------------------------------------------
+System, release, row_with_smell, stat, p-value
+pljava, pljava-1_2_0, 0, nan, nan
+pljava, pljava-1_3_0, 0, nan, nan
+pljava, pljava-1_4_0, 0, nan, nan
+pljava, pljava-1_4_2, 0, nan, nan
+pljava, pljava-1_4_3, 0, nan, nan
+pljava, pljava-1_5_0, 1, nan, nan
+pljava, pljava-1_5_0b3, 1, nan, nan
+pljava, pljava-1_5_1b1, 1, nan, nan
+pljava, pljava-1_5_1b2, 1, nan, nan
+pljava, pljava-1_5_2, 1, nan, nan
+pljava, pljava-REL1_5_STABLE-BASE, 1, nan, nan
+pljava, pljava-master, 1, nan, nan
+------------------------------------------------
+0/12 (0.0%) release with significant relationship
+        
+For Smell: UnusedParameter
+------------------------------------------------
+System, release, row_with_smell, stat, p-value
+pljava, pljava-1_2_0, 0, nan, nan
+pljava, pljava-1_3_0, 0, nan, nan
+pljava, pljava-1_4_0, 0, nan, nan
+pljava, pljava-1_4_2, 0, nan, nan
+pljava, pljava-1_4_3, 0, nan, nan
+pljava, pljava-1_5_0, 29, 829.0, 0.0
+pljava, pljava-1_5_0b3, 29, 838.0, 0.0
+pljava, pljava-1_5_1b1, 29, 820.0, 0.0
+pljava, pljava-1_5_1b2, 35, 1220.0, 0.0
+pljava, pljava-1_5_2, 35, 1225.0, 0.0
+pljava, pljava-REL1_5_STABLE-BASE, 28, 761.5, 0.0
+pljava, pljava-master, 38, 1444.0, 0.0
+------------------------------------------------
+0/12 (0.0%) release with significant relationship
+        
+For Smell: NotHandlingExceptions
+------------------------------------------------
+System, release, row_with_smell, stat, p-value
+pljava, pljava-1_2_0, 0, nan, nan
+pljava, pljava-1_3_0, 0, nan, nan
+pljava, pljava-1_4_0, 0, nan, nan
+pljava, pljava-1_4_2, 0, nan, nan
+pljava, pljava-1_4_3, 0, nan, nan
+pljava, pljava-1_5_0, 1, nan, nan
+pljava, pljava-1_5_0b3, 1, nan, nan
+pljava, pljava-1_5_1b1, 1, nan, nan
+pljava, pljava-1_5_1b2, 1, nan, nan
+pljava, pljava-1_5_2, 1, nan, nan
+pljava, pljava-REL1_5_STABLE-BASE, 1, nan, nan
+pljava, pljava-master, 1, nan, nan
+------------------------------------------------
+0/12 (0.0%) release with significant relationship
+        
+For Smell: NotSecuringLibraries
+------------------------------------------------
+System, release, row_with_smell, stat, p-value
+pljava, pljava-1_2_0, 0, nan, nan
+pljava, pljava-1_3_0, 0, nan, nan
+pljava, pljava-1_4_0, 0, nan, nan
+pljava, pljava-1_4_2, 0, nan, nan
+pljava, pljava-1_4_3, 0, nan, nan
+pljava, pljava-1_5_0, 0, nan, nan
+pljava, pljava-1_5_0b3, 0, nan, nan
+pljava, pljava-1_5_1b1, 0, nan, nan
+pljava, pljava-1_5_1b2, 0, nan, nan
+pljava, pljava-1_5_2, 0, nan, nan
+pljava, pljava-REL1_5_STABLE-BASE, 0, nan, nan
+pljava, pljava-master, 0, nan, nan
+------------------------------------------------
+0/12 (0.0%) release with significant relationship
+        
+For Smell: HardCodingLibraries
+------------------------------------------------
+System, release, row_with_smell, stat, p-value
+pljava, pljava-1_2_0, 0, nan, nan
+pljava, pljava-1_3_0, 0, nan, nan
+pljava, pljava-1_4_0, 0, nan, nan
+pljava, pljava-1_4_2, 0, nan, nan
+pljava, pljava-1_4_3, 0, nan, nan
+pljava, pljava-1_5_0, 0, nan, nan
+pljava, pljava-1_5_0b3, 0, nan, nan
+pljava, pljava-1_5_1b1, 0, nan, nan
+pljava, pljava-1_5_1b2, 0, nan, nan
+pljava, pljava-1_5_2, 0, nan, nan
+pljava, pljava-REL1_5_STABLE-BASE, 0, nan, nan
+pljava, pljava-master, 0, nan, nan
+------------------------------------------------
+0/12 (0.0%) release with significant relationship
+        
+For Smell: NotUsingRelativePath
+------------------------------------------------
+System, release, row_with_smell, stat, p-value
+pljava, pljava-1_2_0, 0, nan, nan
+pljava, pljava-1_3_0, 0, nan, nan
+pljava, pljava-1_4_0, 0, nan, nan
+pljava, pljava-1_4_2, 0, nan, nan
+pljava, pljava-1_4_3, 0, nan, nan
+pljava, pljava-1_5_0, 0, nan, nan
+pljava, pljava-1_5_0b3, 0, nan, nan
+pljava, pljava-1_5_1b1, 0, nan, nan
+pljava, pljava-1_5_1b2, 0, nan, nan
+pljava, pljava-1_5_2, 0, nan, nan
+pljava, pljava-REL1_5_STABLE-BASE, 0, nan, nan
+pljava, pljava-master, 0, nan, nan
+------------------------------------------------
+0/12 (0.0%) release with significant relationship
+        
+For Smell: MemoryManagementMismatch
+------------------------------------------------
+System, release, row_with_smell, stat, p-value
+pljava, pljava-1_2_0, 0, nan, nan
+pljava, pljava-1_3_0, 0, nan, nan
+pljava, pljava-1_4_0, 0, nan, nan
+pljava, pljava-1_4_2, 0, nan, nan
+pljava, pljava-1_4_3, 0, nan, nan
+pljava, pljava-1_5_0, 1, nan, nan
+pljava, pljava-1_5_0b3, 1, nan, nan
+pljava, pljava-1_5_1b1, 1, nan, nan
+pljava, pljava-1_5_1b2, 1, nan, nan
+pljava, pljava-1_5_2, 1, nan, nan
+pljava, pljava-REL1_5_STABLE-BASE, 1, nan, nan
+pljava, pljava-master, 1, nan, nan
+------------------------------------------------
+0/12 (0.0%) release with significant relationship
+        
+For Smell: LocalReferencesAbuse
+------------------------------------------------
+System, release, row_with_smell, stat, p-value
+pljava, pljava-1_2_0, 0, nan, nan
+pljava, pljava-1_3_0, 0, nan, nan
+pljava, pljava-1_4_0, 0, nan, nan
+pljava, pljava-1_4_2, 0, nan, nan
+pljava, pljava-1_4_3, 0, nan, nan
+pljava, pljava-1_5_0, 0, nan, nan
+pljava, pljava-1_5_0b3, 0, nan, nan
+pljava, pljava-1_5_1b1, 0, nan, nan
+pljava, pljava-1_5_1b2, 0, nan, nan
+pljava, pljava-1_5_2, 0, nan, nan
+pljava, pljava-REL1_5_STABLE-BASE, 0, nan, nan
+pljava, pljava-master, 0, nan, nan
+------------------------------------------------
+0/12 (0.0%) release with significant relationship
+        
+For Smell: CLOL
+------------------------------------------------
+System, release, row_with_smell, stat, p-value
+pljava, pljava-1_2_0, 1, nan, nan
+pljava, pljava-1_3_0, 0, nan, nan
+pljava, pljava-1_4_0, 0, nan, nan
+pljava, pljava-1_4_2, 0, nan, nan
+pljava, pljava-1_4_3, 27, 729.0, 0.0
+pljava, pljava-1_5_0, 8, 64.0, 0.0006
+pljava, pljava-1_5_0b3, 1, nan, nan
+pljava, pljava-1_5_1b1, 25, 625.0, 0.0
+pljava, pljava-1_5_1b2, 1, nan, nan
+pljava, pljava-1_5_2, 3, nan, nan
+pljava, pljava-REL1_5_STABLE-BASE, 28, 784.0, 0.0
+pljava, pljava-master, 0, nan, nan
+------------------------------------------------
+1/12 (8.0%) release with significant relationship
+        
+For Smell: PrevFixing
+------------------------------------------------
+System, release, row_with_smell, stat, p-value
+pljava, pljava-1_2_0, 0, nan, nan
+pljava, pljava-1_3_0, 0, nan, nan
+pljava, pljava-1_4_0, 0, nan, nan
+pljava, pljava-1_4_2, 0, nan, nan
+pljava, pljava-1_4_3, 4, nan, nan
+pljava, pljava-1_5_0, 2, nan, nan
+pljava, pljava-1_5_0b3, 1, nan, nan
+pljava, pljava-1_5_1b1, 2, nan, nan
+pljava, pljava-1_5_1b2, 1, nan, nan
+pljava, pljava-1_5_2, 0, nan, nan
+pljava, pljava-REL1_5_STABLE-BASE, 0, nan, nan
+pljava, pljava-master, 0, nan, nan
+------------------------------------------------
+0/12 (0.0%) release with significant relationship
+        
+For Smell: CodeChurn
+------------------------------------------------
+System, release, row_with_smell, stat, p-value
+pljava, pljava-1_2_0, 1, nan, nan
+pljava, pljava-1_3_0, 0, nan, nan
+pljava, pljava-1_4_0, 0, nan, nan
+pljava, pljava-1_4_2, 0, nan, nan
+pljava, pljava-1_4_3, 27, 729.0, 0.0
+pljava, pljava-1_5_0, 8, 64.0, 0.0006
+pljava, pljava-1_5_0b3, 1, nan, nan
+pljava, pljava-1_5_1b1, 25, 625.0, 0.0
+pljava, pljava-1_5_1b2, 1, nan, nan
+pljava, pljava-1_5_2, 3, nan, nan
+pljava, pljava-REL1_5_STABLE-BASE, 28, 784.0, 0.0
+pljava, pljava-master, 0, nan, nan
+------------------------------------------------
+1/12 (8.0%) release with significant relationship

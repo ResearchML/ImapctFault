@@ -1,0 +1,59 @@
+                                 excessiveInterlangCommunication  Inducing
+excessiveInterlangCommunication                         1.000000  0.295932
+Inducing                                                0.295932  1.000000
+
+                  Toomuchclustring  Inducing
+Toomuchclustring          1.000000  0.187201
+Inducing                  0.187201  1.000000
+
+                   ToomuchScattering  Inducing
+ToomuchScattering                NaN       NaN
+Inducing                         NaN       1.0
+
+                         UnusedMethodDeclaration  Inducing
+UnusedMethodDeclaration                 1.000000  0.153432
+Inducing                                0.153432  1.000000
+
+                            UnusedMethodImplementation  Inducing
+UnusedMethodImplementation                    1.000000 -0.196577
+Inducing                                     -0.196577  1.000000
+
+                 UnusedParameter  Inducing
+UnusedParameter         1.000000  0.000414
+Inducing                0.000414  1.000000
+
+                         AssumingSafeReturnValue  Inducing
+AssumingSafeReturnValue                 1.000000  0.148272
+Inducing                                0.148272  1.000000
+
+                  ExcessiveObjects  Inducing
+ExcessiveObjects               NaN       NaN
+Inducing                       NaN       NaN
+
+                       NotHandlingExceptions  Inducing
+NotHandlingExceptions               1.000000  0.316093
+Inducing                            0.316093  1.000000
+
+                   NotCachingObjects  Inducing
+NotCachingObjects                NaN       NaN
+Inducing                         NaN       NaN
+
+                      NotSecuringLibraries  Inducing
+NotSecuringLibraries              1.000000  0.144831
+Inducing                          0.144831  1.000000
+
+                     HardCodingLibraries  Inducing
+HardCodingLibraries             1.000000  0.187455
+Inducing                        0.187455  1.000000
+
+                      NotUsingRelativePath  Inducing
+NotUsingRelativePath              1.000000  0.481157
+Inducing                          0.481157  1.000000
+
+                          MemoryManagementMismatch  Inducing
+MemoryManagementMismatch                  1.000000 -0.300779
+Inducing                                 -0.300779  1.000000
+
+                      LocalReferencesAbuse  Inducing
+LocalReferencesAbuse              1.000000  0.235776
+Inducing                          0.235776  1.000000

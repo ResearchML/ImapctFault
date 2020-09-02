@@ -1,0 +1,16 @@
+                                 Inducing
+excessiveInterlangCommunication  0.008599
+Toomuchclustring                -0.009723
+ToomuchScattering               -0.129627
+UnusedMethodDeclaration          0.152114
+UnusedMethodImplementation       0.020587
+UnusedParameter                  0.128309
+AssumingSafeReturnValue         -0.011052
+ExcessiveObjects                      NaN
+NotHandlingExceptions           -0.004993
+NotCachingObjects                     NaN
+NotSecuringLibraries             0.025721
+HardCodingLibraries             -0.028178
+NotUsingRelativePath             0.080792
+MemoryManagementMismatch        -0.017512
+LocalReferencesAbuse             0.180906

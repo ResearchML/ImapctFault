@@ -1,0 +1,40 @@
+Call:
+glm(formula = InducingFlag ~ excessiveInterlangCommunication + 
+    Toomuchclustring + ToomuchScattering + UnusedMethodDeclaration + 
+    UnusedMethodImplementation + UnusedParameter + ExcessiveObjects + 
+    NotHandlingExceptions + NotCachingObjects + NotSecuringLibraries + 
+    HardCodingLibraries + MemoryManagementMismatch + LocalReferencesAbuse + 
+    LOC + PrevFixing, family = binomial(link = "logit"), data = dfx)
+
+Deviance Residuals: 
+     Min        1Q    Median        3Q       Max  
+-2.08956  -0.00815  -0.00776   0.00000   2.03956  
+
+Coefficients: (2 not defined because of singularities)
+                                  Estimate Std. Error z value Pr(>|z|)    
+(Intercept)                     -1.044e+01  1.104e+00  -9.457  < 2e-16 ***
+excessiveInterlangCommunication  2.985e-01  5.623e-02   5.307 1.11e-07 ***
+Toomuchclustring                 4.262e+00  1.283e+00   3.321 0.000898 ***
+ToomuchScattering                8.359e+00  1.051e+00   7.953 1.82e-15 ***
+UnusedMethodDeclaration          9.078e-01  1.073e-01   8.457  < 2e-16 ***
+UnusedMethodImplementation      -1.255e+01  9.501e+01  -0.132 0.894915    
+UnusedParameter                  5.695e-01  5.866e-02   9.708  < 2e-16 ***
+ExcessiveObjects                        NA         NA      NA       NA    
+NotHandlingExceptions            3.248e+00  8.783e-01   3.698 0.000217 ***
+NotCachingObjects                       NA         NA      NA       NA    
+NotSecuringLibraries            -4.469e-01  1.890e+00  -0.236 0.813090    
+HardCodingLibraries              1.841e+00  3.051e+00   0.603 0.546194    
+MemoryManagementMismatch        -9.255e+00  4.239e+03  -0.002 0.998258    
+LocalReferencesAbuse            -1.172e+01  2.888e+05   0.000 0.999968    
+LOC                              1.485e-03  5.194e-04   2.858 0.004260 ** 
+PrevFixing                       1.441e+02  1.065e+03   0.135 0.892318    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 19258.94  on 13934  degrees of freedom
+Residual deviance:   369.11  on 13921  degrees of freedom
+AIC: 397.11
+
+Number of Fisher Scoring iterations: 25

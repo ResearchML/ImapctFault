@@ -1,0 +1,41 @@
+def report_fishers_exact_test_new(sys_name):
+    path_root = os.getcwd()
+    merged_data_path = os.path.join(data_path_root, 'data', 'nativedata.csv')
+    data = load_csv(merged_data_path)
+#     print(data.columns)
+    cols_list = ['system', 'version', 'JNINativeFlag', 'Smelly','InducingFlag', 'Inducing'] 
+    data_df = data[cols_list]
+#     sys_list = list(set(data_df['system'].values))
+#     print(sys_list)
+    data_df = data_df[data_df['system']==sys_name]
+    release_list = list(set(data_df['version'].values))
+    
+    report_txt =''
+    header = "Release, S_B, NS_B, S_NB, NS_NB, Odds_ratio, p-value"
+    report_txt = header + '\n'
+    print('Fisher\'s Test results for {}'.format(sys_name))
+    print('==================================')
+    print(header)
+    for rl in release_list:
+        rel_df = data_df[data_df['version']==rl] # for selected release
+                
+        s_b_df = rel_df.query('Smelly==1 & InducingFlag==1')
+        smelly_buggy = s_b_df.shape[0]
+        
+        ns_b_df = rel_df.query('Smelly==0 & InducingFlag==1')
+        non_smelly_buggy = ns_b_df.shape[0]
+        
+        s_nb_df = rel_df.query('Smelly==1 & InducingFlag==0')
+        smelly_non_buggy = s_nb_df.shape[0]
+        
+        ns_nb_df = rel_df.query('Smelly==0 & InducingFlag==0')
+        non_smelly_non_buggy = ns_nb_df.shape[0]
+        
+        test_data = [[smelly_buggy, non_smelly_buggy],
+                     [smelly_non_buggy, non_smelly_non_buggy]]
+        odd_r, p_val = fishers_exact_test(test_data)
+        txt_line = "{},{},{},{},{},{},{}".format(rl, smelly_buggy, non_smelly_buggy,
+                                        smelly_non_buggy, non_smelly_non_buggy, odd_r, float_to_str(p_val))
+        print(txt_line)
+        report_txt = report_txt + txt_line + '\n'
+    return report_txt
