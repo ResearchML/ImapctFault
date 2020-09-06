@@ -5,8 +5,11 @@ Replication Utilities
 This repository includes the steps and information needed to replicate our study.
 
 1- Detection of multi-language code smells occurrences.
+
 2- Detection of bug fixing and bug inducing commits.
+
 3- Extraction of bug topics.
+
 4- Statistical Analysis performed.
 
 This project aims to investigate the evolution of multi-language design smells and the relation between these smells and software fault-proneness.
