@@ -22,23 +22,30 @@ Results: Results of the detection
 Evaluation: Evaluation of the Approach
 
 Getting Started
+
 Running
+
 Run /MLS SAD/src/mlssad/DetectCodeSmellsAndAntiPatterns.java with the path to a directory or file as the only argument. The program will output a CSV file with the code smells and anti-patterns detected in the input source.
 
 Customizing
+
 Change the parameters in /MLS SAD/rsc/config.properties to adapt to your needs. It is currently configured following the default values as thresholds.
 
 Running the tests
+
 The directory /MLS SAD Tests contains tests for each code smell and anti-pattern individually, and two test suites (Applied with the PilotProject). 
 
 The tests require the pilot project for detection of anti-patterns and code smells in multi-language systems:
 
 1- Clone the pilot project (PilotProjectAPCSMLS).
+
 2- Create a junction between the folder MLS SAD Tests/rsc and the pilot project folder. On Windows, assuming that the two projects are in the same folder (otherwise, include their paths):
 MKLINK /D /J "MLS-SAD\MLS SAD Tests\rsc" "PilotProjectAPCSMLS"
 
 Dependencies
+
 srcML - A parsing tool to convert code to srcML, a subset of XML
+
 Apache Commons Compress - A library for working with archives
 
 Acknowledgments
