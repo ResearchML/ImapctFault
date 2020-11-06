@@ -6,13 +6,9 @@ This repository includes the steps and information needed to replicate our study
 
 1- Detection of multi-language code smells occurrences.
 
-2- Detection of bug fixing and bug inducing commits.
+2- Statistical Analysis performed.
 
-3- Extraction of bug topics.
-
-4- Statistical Analysis performed.
-
-This project aims to investigate the evolution of multi-language design smells and the relation between these smells and software fault-proneness.
+This project aims to investigate the evolution of multi-language design smells.
 
 - Detection of multi-language code smells occurrences
 Location: Folder Detection Approach
@@ -50,26 +46,6 @@ Apache Commons Compress - A library for working with archives
 
 Acknowledgments
 Loosely inspired by the SAD tool in Ptidej
-
-
-- Detection of bug fixing and bug inducing commits
-Location: Folder Detection of Bugs
-Scripts: Contains the script used to extract the bugs
-Results: Contains the results of the bug information with the smells
-Evaluation: Contains the manual evaluation of the detection approach
-
-Getting Started
-Run the script 	Bug_InducingCommits.py to extract the bug information using Pydriller related to a specific project.
-Manual validation of commit inducing of Pydriller and comparison with szz results.
-
-- Extraction of bug topics.
-Approach: Combination of python script and manual analysis
-Results: Results of the topics and the manual validation
-Getting Started
-Input file of the commit messages ‘commit-messages.csv’.
-Download Mallet.
-Run the script “LDA_Latest.py” with the input file.
-Manual Validation and attribution of tags and keywords.
 
 - Data Analysis
 src: Contains the scripts used for the data analysis 
